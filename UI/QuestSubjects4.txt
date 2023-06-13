@@ -1,0 +1,2 @@
+040	FFFFFF [Destrave do level 40] - LV 40
+090	FFFFFF [Destrave do level 90] - LV 90

@@ -1,0 +1,9 @@
+Téc_-1s
++Resist
+Detect
+Abs_HP
++HP/DEF
++HP/ATQ
++Precisão
+MP_=_HP
++Critico
