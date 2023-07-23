@@ -1,0 +1,19 @@
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/22 19:42:34 - VertexShader HW Accel Enabled
+07/22 19:42:34 - Error in Init Render Target Texture
+07/22 19:42:43 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/22 19:42:43 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/22 19:43:20 - >> New Field Scene
+07/22 19:43:20 - >> Init Field Scene::Start
+07/22 19:43:20 - >> Init Field Scene::End
+07/22 20:00:51 - >> New Field Scene
+07/22 20:00:51 - >> Init Field Scene::Start
+07/22 20:00:51 - >> Init Field Scene::End
+07/22 20:01:07 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/22 20:07:14 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/22 20:23:55 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/22 20:24:43 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/22 21:17:17 - VertexShader HW Accel Enabled
+07/22 21:17:18 - effect\\fireeagle.msa , Effect\fireeagle.อออ 

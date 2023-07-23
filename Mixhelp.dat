@@ -272,8 +272,8 @@ Bolsa_do_Andarílho 10027 854
 FFFFFFFF Possível_criação_do_item
 FFFFFFFF Bolsa_do_Andarilho.
 FFFFFFFF 
-FFFFFFFF Item_necessário_para_liberar_outras
-FFFFFFFF duas_abas_do_inventário.
+FFFFFFFF Item_necessário_para_liberar
+FFFFFFFF outra_aba_do_inventário.
 FFFFFFFF 
 FFFF0000 A_duração_da_bolsa_é_de_30_dias,_após 
 FFFF0000 o_prazo_será_removido_automaticamente.

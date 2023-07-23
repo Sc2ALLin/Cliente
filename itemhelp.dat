@@ -265,7 +265,7 @@ FFFFFFFF Reinicializa_aprendizagens_do_tipo
 FFFFFFFF Confiança/Magia_Sagrada/Elemental/Sobrevivência.
 FFFFFFFF Recebe_de_volta_até_50_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFF0000 Uso_único.
 FFFFFFFF 
 449
@@ -275,7 +275,7 @@ FFFFFFFF Reinicializa_aprendizagens_do_tipo
 FFFFFFFF Trans/Magia_Negra/Evocação/Troca.
 FFFFFFFF Recebe_de_volta_até_50_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFF0000 Uso_único.
 FFFFFFFF 
 450
@@ -285,7 +285,7 @@ FFFFFFFF Reinicializa_aprendizagens_do_tipo
 FFFFFFFF Espada_Mágica/Magia_Especial/Natureza/Captura.
 FFFFFFFF Recebe_de_volta_até_50_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFF0000 Uso_único.
 FFFFFFFF 
 575
@@ -296,7 +296,7 @@ FFFFFFFF Peitoral_de_Metal,_Armadura_de_Aço,
 FFFFFFFF Chapéu_Sombrio,_Elmo_de_Águia.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Somente_nas_partes_citadas.
+FFFF0000 OBS._Somente_nas_partes_citadas.
 FFFFFFFF 
 576
 FFFF00FF [Pedra_Lendária]
@@ -306,7 +306,7 @@ FFFFFFFF Dourado,_Concha,_Osso,_Águia,Combate.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Somente_nas_partes_citadas.
+FFFF0000 OBS._Somente_nas_partes_citadas.
 FFFFFFFF 
 577
 FFFF00FF [Pedra_Lendária]
@@ -316,7 +316,7 @@ FFFFFFFF Anã,_Conjurador,_Aeon,_Natureza.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Somente_nas_partes_citadas.
+FFFF0000 OBS._Somente_nas_partes_citadas.
 FFFFFFFF 
 578
 FFFF00FF [Pedra_Lendária]
@@ -326,7 +326,7 @@ FFFFFFFF Mytril,_Embutida,_Elemental,_Teia.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Somente_nas_partes_citadas.
+FFFF0000 OBS._Somente_nas_partes_citadas.
 FFFFFFFF
 579
 FFFF00FF [Pedra_Lendária]
@@ -336,7 +336,7 @@ FFFFFFFF Mortal,_Templária,_Corvo,_Legendária.
 FFFFFFFF 
 FFFFFFFF  
 FFFFFFFF 
-FFFF0000 Obs._Somente_nas_partes_citadas.
+FFFF0000 OBS._Somente_nas_partes_citadas.
 FFFFFFFF
 634
 FFFF00FF [Material_para_Refinação]
@@ -416,7 +416,7 @@ FFFFFFFF Confiança/Magia_sagrada/Sobrevivência/Elemental.
 FFFFFFFF Recebe_de_volta_até_100_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
 FFFFFFFF 
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFFFFFF 
 694
 FFFF00FF [Item_de_QUEST]
@@ -426,7 +426,7 @@ FFFFFFFF Trans/Magia_Negra/Evocação/Troca.
 FFFFFFFF Recebe_de_volta_até_100_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
 FFFFFFFF 
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFFFFFF 
 695
 FFFF00FF [Item_de_QUEST]
@@ -436,7 +436,7 @@ FFFFFFFF Espada_Mágica/Magia Especial/Natureza/Captura
 FFFFFFFF Recebe_de_volta_até_100_pontos
 FFFFFFFF de_cada_tipo_de_aprendizagem.
 FFFFFFFF 
-FFFF0000 Obs._Usa-se_no_Shaman_em_Azran.
+FFFF0000 OBS._Usa-se_no_Shaman_em_Azran.
 FFFFFFFF 
 697
 FFFF00FF [Item_de_QUEST]
@@ -476,7 +476,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_a_Quest.
+FFFF0000 OBS._Relacionado_com_a_Quest.
 FFFFFFFF 
 752
 FFFF00FF [Item_de_QUEST]
@@ -486,7 +486,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_somente_em_Quest.
+FFFF0000 OBS._Uso_somente_em_Quest.
 FFFFFFFF 
 753
 FFFF00FF [_Familiar_]
@@ -496,7 +496,7 @@ FFFFFFFF Auxilia_o_ataque.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_Quest_Dois_Castelos.
+FFFF0000 OBS._Relacionado_com_Quest_Dois_Castelos.
 FFFFFFFF 
 754
 FFFF00FF [Item_de_QUEST]
@@ -506,7 +506,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_somente_em_Quest.
+FFFF0000 OBS._Uso_somente_em_Quest.
 FFFFFFFF 
 755
 FFFF00FF [Item_de_QUEST]
@@ -516,7 +516,7 @@ FFFFFFFF castelo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_somente_em_Quest.
+FFFF0000 OBS._Uso_somente_em_Quest.
 FFFFFFFF 
 756
 FFFF00FF [Item_de_QUEST]
@@ -526,7 +526,7 @@ FFFFFFFF castelo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_somente_em_Quest.
+FFFF0000 OBS._Uso_somente_em_Quest.
 FFFFFFFF 
 769
 FFFF00FF [_Familiar_]
@@ -536,27 +536,27 @@ FFFFFFFF _Guilda._Auxilia_o_ataque.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_QUEST.
+FFFF0000 OBS._Relacionado_com_QUEST.
 FFFFFFFF 
 774
 FFFF00FF [Item_de_QUEST]
 FFFFFFFF 
 FFFFFFFF Serve_para_mudar_o_nome_do_personagem
-FFFFFFFF Precisa_ser_usado_junto_com_Pedra_da_Troca_Menor.
+FFFFFFFF Precisa_ser_usado_junto_com_Pedra_da
+FFFFFFFF Troca_Menor.
 FFFFFFFF 
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_QUEST.
+FFFF0000 OBS._Relacionado_com_QUEST.
 FFFFFFFF 
 775
 FFFF00FF [Item_de_QUEST]
 FFFFFFFF 
 FFFFFFFF Serve_para_mudar_o_nome_do_personagem
-FFFFFFFF Precisa_ser_usado_junto_com_Pedra_da_
+FFFFFFFF Precisa_ser_usado_junto_com_Pedra_da
 FFFFFFFF Troca_Maior.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_QUEST.
+FFFF0000 OBS._Relacionado_com_QUEST.
 FFFFFFFF 
 776
 FFFFFFFF Teleporta_para_o_local_onde_foi 
@@ -565,8 +565,8 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Necessário_ter_armazenado_local.
-FFFF0000 Obs._Botão_direto_do_mouse_pra_uso.
+FFFF0000 OBS._Necessário_ter_armazenado_local.
+FFFF0000 OBS._Botão_direto_do_mouse_pra_uso.
 FFFFFFFF 
 777
 FFFF00FF [Item_premium]
@@ -576,7 +576,7 @@ FFFFFFFF da_Água_Level_1_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 778
 FFFF00FF [Item_de_QUEST]
@@ -586,7 +586,7 @@ FFFFFFFF da_Água_level_2_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest 
+FFFF0000 OBS._Relacionado_com_Quest 
 FFFFFFFF 
 779
 FFFF00FF [Item_de_QUEST]
@@ -596,7 +596,7 @@ FFFFFFFF da_Água_level_3_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 780
 FFFF00FF [Item_de_QUEST]
@@ -606,7 +606,7 @@ FFFFFFFF da_Água_level_4_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 781
 FFFF00FF [Item_de_QUEST]
@@ -616,7 +616,7 @@ FFFFFFFF da_Águalevel_5_(místicoo).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 782
 FFFF00FF [Item_de_QUEST]
@@ -626,7 +626,7 @@ FFFFFFFF da_Água_level_6_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 783
 FFFF00FF [Item_de_QUEST]
@@ -636,7 +636,7 @@ FFFFFFFF da_Água_level_7_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest¸
+FFFF0000 OBS._Relacionado_com_Quest¸
 FFFFFFFF 
 784
 FFFF00FF [Item_de_QUEST]
@@ -646,7 +646,7 @@ FFFFFFFF da_Água_level_8_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest¸
+FFFF0000 OBS._Relacionado_com_Quest¸
 FFFFFFFF 
 785
 FFFF00FF [Item_de_QUEST]
@@ -656,7 +656,7 @@ FFFFFFFF da_Água_level_final_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF
 788
 FFFF00FF [Item_Premium]
@@ -826,7 +826,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF00FF Obs._clique_direto_do_mouse_pra_usar.
+FFFF00FF OBS._clique_direto_do_mouse_pra_usar.
 FFFFFFFF 
 1731
 FFFF00FF [Item_premium]
@@ -836,7 +836,7 @@ FFFFFFFF Quest_Arcana,_teste_sua_habilidade.
 FFFFFFFF O_grupo_todo_poderá_entrar_e_só_o_líder 
 FFFFFFFF precisa_ter_a_entrada.
 FFFFFFFF 
-FFFF0000 Obs._Relacionado_com_Quest:_Quarto_Secreto.
+FFFF0000 OBS._Relacionado_com_Quest:_Quarto_Secreto.
 FFFFFFFF 
 1732
 FFFF00FF [Item_de_QUEST]
@@ -844,7 +844,7 @@ FFFFFFFF
 FFFFFFFF Item_que_permite_acesso_à_última_parte
 FFFFFFFF da_quest_Quarto_Secreto.
 FFFFFFFF 
-FFFF0000 Obs._Pode_obter_derrotando_o_rei_do
+FFFF0000 OBS._Pode_obter_derrotando_o_rei_do
 FFFF0000 reino_oponente._Relacionado_com_Quests:
 FFFF0000 Quarto_Secreto,_Tempestade_Inacabável.
 FFFFFFFF 
@@ -856,8 +856,38 @@ FFFFFFFF Quest_Cubo_da_Maldade.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Use_nas_coordenadas,_X:2391_Y:1735.
+FFFF0000 OBS._Use_nas_coordenadas,_X:2391_Y:1735.
 FFFFFFFF
+1777
+FFFF00FF [Item_Premium]
+FFFFFFFF 
+FFFFFFFF Item_que_permite_acesso_à
+FFFFFFFF Quest do Verid Lendário(NORMAL).
+FFFFFFFF 
+FFFF0000
+FFFF0000 OBS._Apenas para líderes de guilda.
+FFFF0000 OBS:_Usar no canal em que o kefra foi morto.
+FFFFFFFF 
+1778
+FFFF00FF [Item_Premium]
+FFFFFFFF 
+FFFFFFFF Item_que_permite_acesso_à
+FFFFFFFF Quest do Verid Lendário(MÍSTICO).
+FFFFFFFF 
+FFFF0000
+FFFF0000 OBS._Apenas para líderes de guilda.
+FFFF0000 OBS:_Usar no canal em que o kefra foi morto.
+FFFFFFFF 
+1779
+FFFF00FF [Item_Premium]
+FFFFFFFF 
+FFFFFFFF Item_que_permite_acesso_à
+FFFFFFFF Quest do Verid Lendário(ARCANO).
+FFFFFFFF 
+FFFF0000
+FFFF0000 OBS._Apenas para líderes de guilda.
+FFFF0000 OBS:_Usar no canal em que o kefra foi morto.
+FFFFFFFF 
 1740
 FFFF00FF [Item_Especial]
 FFFFFFFF 
@@ -1135,8 +1165,8 @@ FFFFFFFF Entrada_para_teste:
 FFFFFFFF Monstros_compostos.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usa-se_no_Coliseu_em_Azran.
-FFFF0000 Obs._Quando?_10h_PM_dentro_do_jogo.
+FFFF0000 OBS._Usa-se_no_Coliseu_em_Azran.
+FFFF0000 OBS._Quando?_10h_PM_dentro_do_jogo.
 FFFFFFFF 
 3171
 FFFF00FF [Item_Premium]
@@ -1146,7 +1176,7 @@ FFFFFFFF bravura_no_Quarto_Secreto_(Místico).
 FFFFFFFF Gasta_apenas_1_item_mesmo_entrando 
 FFFFFFFF com_o_grupo.
 FFFF0000 Use_nas_coordenadas:_X: 1046_Y:1690 
-FFFF0000 Obs._Relacionado_QUEST
+FFFF0000 OBS._Relacionado_QUEST
 FFFFFFFF 
 3172
 FFFF00FF [Item_Premium]
@@ -1156,7 +1186,7 @@ FFFFFFFF bravura_no_Quarto_Secreto_(Normal).
 FFFFFFFF Gasta_apenas_1_item_mesmo_entrando 
 FFFFFFFF com_o_grupo.
 FFFF0000 Use_nas_coordenadas:_X: 1046_Y:1690  
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3173
 FFFF00FF [Item_Premium]
@@ -1166,7 +1196,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_1.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3174
 FFFF00FF [Item_de_QUEST]
@@ -1176,7 +1206,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_2.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3175
 FFFF00FF [Item_de_QUEST]
@@ -1186,7 +1216,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_3.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3176
 FFFF00FF [Item_de_QUEST]
@@ -1196,7 +1226,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_4.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3177
 FFFF00FF [Item_de_QUEST]
@@ -1206,7 +1236,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_5.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3178
 FFFF00FF [Item_de_QUEST]
@@ -1216,7 +1246,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_6.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3179
 FFFF00FF [Item_de_QUEST]
@@ -1226,7 +1256,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_7.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3180
 FFFF00FF [Item_de_QUEST]
@@ -1236,7 +1266,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_8.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3181
 FFFF00FF [Item_de_QUEST]
@@ -1246,7 +1276,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_Final.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST. 
+FFFF0000 OBS._Relacionado_QUEST. 
 FFFFFFFF 
 3182
 FFFF00FF [Item_premium]
@@ -1256,7 +1286,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_1.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3183
 FFFF00FF [Item_de_QUEST]
@@ -1266,7 +1296,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_2.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST¸
+FFFF0000 OBS._Relacionado_QUEST¸
 FFFFFFFF 
 3184
 FFFF00FF [Item_de_QUEST]
@@ -1276,7 +1306,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcain)
 FFFFFFFF Level_3.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST¸
+FFFF0000 OBS._Relacionado_QUEST¸
 FFFFFFFF 
 3185
 FFFF00FF [Item_de_QUEST]
@@ -1286,7 +1316,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_4.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3186
 FFFF00FF [Item_de_QUEST]
@@ -1296,7 +1326,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_5.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3187
 FFFF00FF [Item_de_QUEST]
@@ -1306,7 +1336,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_6.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3188
 FFFF00FF [Item_de_QUEST]
@@ -1316,7 +1346,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_7.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3189
 FFFF00FF [Item_de_QUEST]
@@ -1326,7 +1356,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_8.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3190
 FFFF00FF [Item_de_QUEST]
@@ -1336,7 +1366,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(Arcano)
 FFFFFFFF Level_Final.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 3200
 FFFF00FF [Alquimia_Avançada]
@@ -1474,7 +1504,7 @@ FFFFFFFF
 FFFFFFFF Item_que_dobra_a_Experiência
 FFFFFFFF do_personagem.
 FFFFFFFF 
-"FFAAAAAA Item_imóvel."
+FFAAAAAA Item_imóvel.
 FFFF0000 
 FFFF0000 Duração:_60_minutos.
 FFFF0000 Efeito: Não_acumulativo.
@@ -1524,7 +1554,7 @@ FFFFFFFF
 FFFFFFFF O_frango_lhe_dará_um_bônus
 FFFFFFFF de_ataque_de_2000_PvM
 FFFFFFFF 
-"FFAAAAAA Item_imóvel."
+FFAAAAAA Item_imóvel.
 FFFF0000 Duração:_60_minutos.
 FFFF0000 Efeito: Não_acumulativo.
 FFFF0000 Bônus_aplicado_apenas_em_monstros.
@@ -1566,7 +1596,7 @@ FFFFFFFF da_Água_Level_1_(normal).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 777
 FFFF00FF [Item_premium]
@@ -1576,7 +1606,7 @@ FFFFFFFF da_Água_Level_1_(místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 3182
 FFFF00FF [Item_premium]
@@ -1586,7 +1616,7 @@ FFFFFFFF da_Água_Level_1_(arcano).
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770 
-FFFF0000 Obs._Relacionado_com_Quest.
+FFFF0000 OBS._Relacionado_com_Quest.
 FFFFFFFF 
 3289
 FFFF00FF [Alquimia_Avançada]
@@ -1724,7 +1754,7 @@ FFFFFFFF
 FFFFFFFF Poção_que_aumenta_o_poder_de_ataque.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Atalho_tecla_E._Aumenta_um_pouco
+FFFF0000 OBS._Atalho_tecla_E._Aumenta_um_pouco
 FFFF0000 o_poder_de_ataque_e_o_movimento_+2.
 FFFF0000 Durabilidade:_30_minutos/poção.
 FFFFFFFF 
@@ -1734,7 +1764,7 @@ FFFFFFFF
 FFFFFFFF Poção_que_aumenta_o_poder_de_ataque.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Atalho_tecla_E.
+FFFF0000 OBS._Atalho_tecla_E.
 FFFF0000 Efeito:_Aumenta_poder_de_ataque.
 FFFF0000 Durabilidade:_60_minutos/poção.
 FFFFFFFF 
@@ -1776,7 +1806,7 @@ FFFFFFFF tipo_cavalo._Aumenta_+1_de_vida_útil.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Limite_de_vida_útil_é_até_60.
+FFFF0000 OBS._Limite_de_vida_útil_é_até_60.
 FFFFFFFF 
 3318
 FFFF00FF [Item_Premium]
@@ -1814,7 +1844,7 @@ FFFFFFFF
 FFFFFFFF Poção_que_aumenta_o_poder_de_ataque.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Atalho_tecla_E.
+FFFF0000 OBS._Atalho_tecla_E.
 FFFF0000 Aumenta_bastante_o_poder_de_ataque.
 FFFF0000 Durabilidade:_20_horas/poção.
 FFFFFFFF 
@@ -1846,7 +1876,7 @@ FFFFFFFF de_Pesadelo_(normal).
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Erion.
+FFFF0000 OBS._Usar_no_reino_de_Erion.
 FFFFFFFF 
 3325
 FFFF00FF [Item_Premium]
@@ -1856,7 +1886,7 @@ FFFFFFFF de_Pesadelo_(Mistico).
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Armia.
+FFFF0000 OBS._Usar_no_reino_de_Armia.
 FFFFFFFF 
 3326
 FFFF00FF [Item_Premium]
@@ -1866,7 +1896,7 @@ FFFFFFFF de_Pesadelo_(Arcano).
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Azran.
+FFFF0000 OBS._Usar_no_reino_de_Azran.
 FFFFFFFF 
 3327
 FFFF00FF [Item_composto]
@@ -1916,7 +1946,7 @@ FFFFFFFF Cidade_da_Felicidade.
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Obs.Proibida_para_menores_de_18_anos.
-FFFF0000 Obs._Use_botão_direito_do_mouse.
+FFFF0000 OBS._Use_botão_direito_do_mouse.
 FFFFFFFF 
 3332
 FFFF00FF [Item_Premium]
@@ -1925,7 +1955,7 @@ FFFFFFFF Transforme-se_em_Javali_Selvagem.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_usar_Montaria.
+FFFF0000 OBS._Impossível_de_usar_Montaria.
 FFFF0000 Duração_900_segundos.
 FFFFFFFF 
 3333
@@ -1935,7 +1965,7 @@ FFFFFFFF Transforme-se_em_Lobo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_usar_Montaria.
+FFFF0000 OBS._Impossível_de_usar_Montaria.
 FFFF0000 Duração_900_segundos.
 FFFFFFFF 
 3334
@@ -1945,7 +1975,7 @@ FFFFFFFF Transforme-se_em_Golem_de_Fogo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_usar_Montaria.
+FFFF0000 OBS._Impossível_de_usar_Montaria.
 FFFF0000 Duração_900_segundos.
 FFFFFFFF 
 3335
@@ -1955,7 +1985,7 @@ FFFFFFFF Desativar_a_transformação.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_somente_quando_estiver
+FFFF0000 OBS._Uso_somente_quando_estiver
 FFFF0000 transformado.
 FFFFFFFF 
 3336
@@ -1965,7 +1995,7 @@ FFFFFFFF Devolve_100_de_cada_status_atribuidos_em
 FFFFFFFF Força,Inteligência,_Destreza_e_Constiuição.
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Uso_através_do_Mestre_de_Habilidade.
+FFFF0000 OBS._Uso_através_do_Mestre_de_Habilidade.
 FFFF0000 Possível_de_usar_com_item_equipado.
 FFFFFFFF
 3337
@@ -1976,7 +2006,7 @@ FFFFFFFF Força,Inteligência,_Destreza_e_Constiuição.
 FFFFFFFF 
 "FFAAAAAA Item_imóvel."
 FFFFFFFF 
-FFFF0000 Obs._Uso_através_do_Mestre_de_Habilidade.
+FFFF0000 OBS._Uso_através_do_Mestre_de_Habilidade.
 FFFF0000 Possível_de_usar_com_item_equipado.
 3338
 FFFF00FF [Item_Premium]
@@ -1985,7 +2015,7 @@ FFFFFFFF para_diminuir_a_chance_de_quebra_durante
 FFFFFFFF a_combinação_de_itens_acima_do_nível_+12.
 FFFFFFFF A_combinação_deve_ser_feita_no_Alquimista Odin.
 FFFFFFFF 
-FFFF0000 Obs._A probabilidade_de_quebrar_será_menor
+FFFF0000 OBS._A probabilidade_de_quebrar_será_menor
 FFFF0000 conforme_o_número_de_itens_equipados.
 FFFFFFFF  
 3340
@@ -2024,7 +2054,7 @@ FFFFFFFF
 FFFFFFFF Dispensa_os_pontos_caóticos_de_-50
 FFFFFFFF para_0.
 FFFFFFFF 
-FFFF0000 Obs._Condição_de_ponto_caótico
+FFFF0000 OBS._Condição_de_ponto_caótico
 FFFF0000 superior_a_-49._Clique_com_botão
 FFFF0000 direito_do_mouse_pra_uso.
 FFFFFFFF 
@@ -2266,7 +2296,7 @@ FFFFFFFF de_superior_até_+4.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Máximo_até_+6.
+FFFF0000 OBS._Máximo_até_+6.
 FFFFFFFF 
 3378
 FFFF00FF [Item_Premium]
@@ -2326,7 +2356,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Erion.
+FFFF0000 OBS._Usar_no_reino_de_Erion.
 FFFFFFFF 
 3391
 FFFF00FF [Item_Premium]
@@ -2336,7 +2366,7 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Armia.
+FFFF0000 OBS._Usar_no_reino_de_Armia.
 FFFFFFFF 
 3392
 FFFF00FF [Item_Premium]
@@ -2346,58 +2376,58 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Usar_no_reino_de_Azran.
+FFFF0000 OBS._Usar_no_reino_de_Azran.
 FFFFFFFF 
 3393
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser_trocado
-FFFFFFFF por_10_Cash.
+FFFFFFFF Item_que_pode_ser
+FFFFFFFF convertido_em_cash.
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 OBS:_Utilize para receber_10_de_Cash
-FFFF0000 
-FFFFFFFF 
+FFFFFFFF
+FFFF0000 OBS:_Clique_para_usar. 
+FFFF0000 OBS:_Use_para_receber_20_de_Cash.
+FFFFFFFF
 3394
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser_trocado
-FFFFFFFF por_100_Cash.
+FFFFFFFF Item_que_pode_ser
+FFFFFFFF convertido_em_cash.
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 OBS:_Utilize para receber_100_de_Cash
-FFFF0000 
-FFFFFFFF 
+FFFFFFFF
+FFFF0000 OBS:_Clique_para_usar. 
+FFFF0000 OBS:_Use_para_receber_100_de_Cash.
+FFFFFFFF
 3395
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser_trocado
-FFFFFFFF por_500_Cash.
+FFFFFFFF Item_que_pode_ser
+FFFFFFFF convertido_em_cash.
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 OBS:_Utilize para receber_500_de_Cash
-FFFF0000 
-FFFFFFFF 
+FFFFFFFF
+FFFF0000 OBS:_Clique_para_usar. 
+FFFF0000 OBS:_Use_para_receber_300_de_Cash.
+FFFFFFFF
 3396
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser_trocado
-FFFFFFFF por_1000_Cash.
+FFFFFFFF Item_que_pode_ser
+FFFFFFFF convertido_em_cash.
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 OBS:_Utilize para receber_1000_de_Cash
-FFFF0000 
-FFFFFFFF 
+FFFFFFFF
+FFFF0000 OBS:_Clique_para_usar. 
+FFFF0000 OBS:_Use_para_receber_500_de_Cash.
+FFFFFFFF
 3441
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser_trocado
-FFFFFFFF por_3000_Cash.
+FFFFFFFF Item_que_pode_ser
+FFFFFFFF convertido_em_cash.
 FFFFFFFF 
-FFFFFFFF 
-FFFF0000 OBS:_Utilize para receber_3000_de_Cash
-FFFF0000 
-FFFFFFFF 
+FFFFFFFF
+FFFF0000 OBS:_Clique_para_usar. 
+FFFF0000 OBS:_Use_para_receber_1000_de_Cash.
+FFFFFFFF
 3397
 FFFF00FF [Item_Premium]
 FFFFFFFF 
@@ -2505,7 +2535,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_azul.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3408
@@ -2515,7 +2545,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_vermelho.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3409
@@ -2525,7 +2555,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_verde.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3410
@@ -2535,7 +2565,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_prata.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3411
@@ -2545,7 +2575,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_preto.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3412
@@ -2555,7 +2585,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_roxo.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3413
@@ -2565,7 +2595,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_marrom.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3414
@@ -2575,7 +2605,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_violeta.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3415
@@ -2585,7 +2615,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_amarela.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3416
@@ -2595,7 +2625,7 @@ FFFFFFFF Feijão_Mágico_que_possibilita
 FFFFFFFF pintar_de_azul_claro.
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Aplicável_somente_em
+FFFF0000 OBS._Aplicável_somente_em
 FFFF0000 equipamentos_de_defesa.
 FFFFFFFF 
 3417
@@ -2605,7 +2635,7 @@ FFFFFFFF Remove a cor aplicada em um item.
 FFFFFFFF 
 FFFFFFFF 
 FFFF0000 Como_usar:_Mesma_forma_de_refinar.
-FFFF0000 Obs._Usar_somente_em_equipamentos_pintados.
+FFFF0000 OBS._Usar_somente_em_equipamentos_pintados.
 FFFF0000 Obs:_Não_aplicável_em_armas_pintadas.
 FFFFFFFF 
 3418
@@ -2615,7 +2645,7 @@ FFFFFFFF Transforme-se_em_Javali_Selvagem.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3419
@@ -2625,7 +2655,7 @@ FFFFFFFF Transforme-se_em_Lobo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3420
@@ -2635,7 +2665,7 @@ FFFFFFFF Transforme-se_em_Golem_de_fogo.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF  
 3421
@@ -2645,7 +2675,7 @@ FFFFFFFF Transforme-se_em_Imp.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3422
@@ -2655,7 +2685,7 @@ FFFFFFFF Transforme-se_em_Orc_Arqueiro.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3423
@@ -2665,7 +2695,7 @@ FFFFFFFF Transforme-se_em_Troll.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3424
@@ -2675,7 +2705,7 @@ FFFFFFFF Transforme-se_em_Carbuncle.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3425
@@ -2685,7 +2715,7 @@ FFFFFFFF Transforme-se_em_Chefe_Ghoul.
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Impossível_de_equipar_montaria,
+FFFF0000 OBS._Impossível_de_equipar_montaria,
 FFFF0000 ovo,_filhote,_adulto.Duração:_1_hora.
 FFFFFFFF 
 3431
@@ -2705,7 +2735,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Pergaminho_que_permite_teleportar
 FFFFFFFF para_locais_interessantes_de_caça
 FFFFFFFF em_cidade_de_Azran_e_Armia.
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3433
@@ -2715,7 +2745,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Teleporta_para_local_de_caça_na_
 FFFFFFFF Dungeon_Negra.
 FFFFFFFF 
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3434
@@ -2725,7 +2755,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Teleporta_para_local_de_caça_em
 FFFFFFFF UnderWorld.
 FFFFFFFF 
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3435
@@ -2735,7 +2765,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Teleporta_para_local_de_caça_no
 FFFFFFFF Deserto_de_Noatun.
 FFFFFFFF 
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3436
@@ -2745,7 +2775,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Teleporta_para_local_de_caça_em
 FFFFFFFF Kefra.
 FFFFFFFF 
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3437
@@ -2755,7 +2785,7 @@ FFF00FFF [Item_Premium]
 FFFFFFFF Teleporta_para_local_de_caça_em
 FFFFFFFF Nipleheim.
 FFFFFFFF 
-FFFF0000 Obs._Existe_limite_de_uso.
+FFFF0000 OBS._Existe_limite_de_uso.
 FFFFFFFF 
 FFFFFFFF 
 3438
@@ -2925,7 +2955,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_ganho_da
 FFFFFFFF exp_em_até_16%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3901
@@ -2935,7 +2965,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_drop_em
 FFFFFFFF até_32%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3902
@@ -2945,7 +2975,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_em:
 FFFFFFFF Drop_de_16%_até_32%_na_Exp.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3903
@@ -2955,7 +2985,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_ganho_na
 FFFFFFFF exp_em_até_16%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3904
@@ -2965,7 +2995,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_drop_em
 FFFFFFFF até_32%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3905
@@ -2975,7 +3005,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem:
 FFFFFFFF 32%_no Drop_e_16%_na Exp.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3906
@@ -2985,7 +3015,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_ganho_na
 FFFFFFFF exp_em_até_16%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_este_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_este_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3907
@@ -2995,7 +3025,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem_de_drop_em
 FFFFFFFF até_32%.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3908
@@ -3005,7 +3035,7 @@ FFFFFFFF Equipe_em_slot_familiar_para_obter
 FFFFFFFF um_aumento_na_porcentagem:
 FFFFFFFF 32%_no Drop_e_16%_na Exp.
 FFFFFFFF 
-FFFF0000 Obs._Não_gasta_caso_não_esteja_equipado.
+FFFF0000 OBS._Não_gasta_caso_não_esteja_equipado.
 FFFFFFFF 
 FFFFFFFF 
 3909
@@ -3265,7 +3295,7 @@ FFFFFFFF Necessário_para_poder_entra_na_região
 FFFFFFFF do_Cubo_da_Maldade(Místico).
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Use_nas_coordenadas,_X:2391_Y:1735.
+FFFF0000 OBS._Use_nas_coordenadas,_X:2391_Y:1735.
 FFFFFFFF
 FFFFFFFF
 4001
@@ -3276,7 +3306,7 @@ FFFFFFFF da_maldade(Místico).
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-FFFF0000 Obs._Use_nas_coordenadas:_X:2391_Y:1735.
+FFFF0000 OBS._Use_nas_coordenadas:_X:2391_Y:1735.
 FFFFFFFF
 4010
 FFFFFFFF 
@@ -3316,7 +3346,7 @@ FFFFFFFF Kefra_na_Dungeon._O_Guilda_Master
 FFFFFFFF deve_juntar_15_destes_e_contatar_a
 FFFFFFFF equipe_de_GM`s_para_poder_ser
 FFFFFFFF premiado_de_acordo_com_o_rank.
-FFFF0000 Obs._Uso_somente_em_período_de_evento.
+FFFF0000 OBS._Uso_somente_em_período_de_evento.
 FFFF0000 Consulte_website_para_mais_informações.
 4014
 FFFF00FF [_Item_de_bônus_]
@@ -3469,15 +3499,15 @@ FFFF0000 Use_clicando_com_botão_direito_do_mouse
 FFFFFFFF
 FFFFFFFFF
 4038
-FFFF00FF [Item_de_Quest]
-FFFFFFFF Este_item_é_para_a_quest,
-FFFFFFFF 'Defensor_da_Alma'
-FFFFFFFF Com_este_item,_fale_com_o_Coveiro
-FFFFFFFF aos_redores_de_Armia
-FFFFFFFF e_você_poderá_participar_da_quest.
+FFFF00FF [Defensor_da_Alma]
+FFFFFFFF 
+FFFFFFFF Level_Requerido:_Mortal_40~115
+FFFF0000 Duração c/Fada Dourada: 15 minutos.
+FFFF0000 Duração s/Fada Dourada: 10 minutos.
 FFFFFFFF
-FFFF0000 Level_Requerido:_Mortal_40~115
-FFFF0000 É_necessário_1_item_para_cada_entrada
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
 4039
 FFFF00FF [Item_de_Quest]
 FFFFFFFF Este_item_é_para_a_quest,
@@ -3595,7 +3625,7 @@ FFFFFFFF Item_necessário_para_QUEST
 FFFFFFFF de_Arch_de_level_355.
 FFFFFFFF Adiciona_80_de_MP.
 FFFFFFFF 
-FFFF0000 Obs._Gasta_100_milhões_de_EXP.
+FFFF0000 OBS._Gasta_100_milhões_de_EXP.
 FFFF0000 Uso_único_/_não_comercializável.
 FFFFFFFF 
 4107
@@ -3605,7 +3635,7 @@ FFFFFFFF Item_necessário_para_QUEST
 FFFFFFFF de_Arch_de_level_355.
 FFFFFFFF Adiciona_30_de_AC.
 FFFFFFFF
-FFFF0000 Obs._Gasta_100_milhões_de_EXP.
+FFFF0000 OBS._Gasta_100_milhões_de_EXP.
 FFFF0000 Uso_único_/_não_comercializável.
 FFFFFFFF 
 4108
@@ -3615,7 +3645,7 @@ FFFFFFFF Item_necessário_para_QUEST
 FFFFFFFF de_Arch_de_level_355.
 FFFFFFFF Adiciona_80_de_HP.
 FFFFFFFF 
-FFFF0000 Obs._Gasta_100_milhões_de_EXP.
+FFFF0000 OBS._Gasta_100_milhões_de_EXP.
 FFFF0000 Uso_único_/_não_comercializável.
 FFFFFFFF 
 4109
@@ -3625,7 +3655,7 @@ FFFFFFFF Item_necessário_para_QUEST
 FFFFFFFF de_Arch_de_level_355.
 FFFFFFFF Adiciona_60_de_HP,
 FFFFFFFF 20_de_AC_e_60de_MP.
-FFFF0000 Obs._Gasta_100_milhões_de_EXP.
+FFFF0000 OBS._Gasta_100_milhões_de_EXP.
 FFFF0000 Uso_único_/_não_comercializável.
 FFFFFFFF 
 4110
@@ -3638,36 +3668,6 @@ FFFFFFFF
 FFFF0000 
 FFFF0000 
 FFFFFFFF
-4111
-FFFF00FF [Item_de_Caça]
-FFFFFFFF 
-FFFFFFFF Permite o acesso ao
-FFFFFFFF Território de Caça.
-FFFFFFFF 
-FFFF0000 Entrada Permitida:
-FFFF0000 Mortal(1~400)
-FFFFFFFF 
-FFFF0000 Duração: 10 minutos.
-4112
-FFFF00FF [Item_de_Caça]
-FFFFFFFF 
-FFFFFFFF Permite o acesso ao
-FFFFFFFF Território de Caça.
-FFFFFFFF 
-FFFF0000 Entrada Permitida:
-FFFF0000 Arch(1~400)
-FFFFFFFF 
-FFFF0000 Duração: 10 minutos.
-4113
-FFFF00FF [Item_de_Caça]
-FFFFFFFF 
-FFFFFFFF Permite o acesso ao
-FFFFFFFF Território de Caça.
-FFFFFFFF 
-FFFF0000 Entrada Permitida:
-FFFF0000 Cele/Sub(1~200)
-FFFFFFFF 
-FFFF0000 Duração: 10 minutos.
 4114
 FFFF00FF [_Item_Lan-house_]
 FFFFFFFF 
@@ -3765,7 +3765,7 @@ FFFFFFFF Pode-se_compor_os_pedaços_através_do
 FFFFFFFF sacerdote_Kuruno.
 FFFFFFFF 
 FFFFFFFF
-FFFF0000 Obs._Composição_permitida_somente_nos
+FFFF0000 OBS._Composição_permitida_somente_nos
 FFFF0000 levels_70_a_75.
 FFFF0000 Não_aplicável_em_personagem_Arch. 
 4124
@@ -3774,7 +3774,7 @@ FFFFFFFF Item_da_Quest_Benção_do_Deus.
 FFFFFFFF Devolve_os_50_pontos_de_aprendizagem
 FFFFFFFF do_skill_zerando_os_skills.
 FFFF0000 Use_o_botão_direito_do_mouse.
-FFFF0000 Obs._Composição_permitida_somente_nos
+FFFF0000 OBS._Composição_permitida_somente_nos
 FFFF0000 levels_70_a_75.
 FFFF0000 Não_aplicável_em_personagem_Arch.
 FFFF0000 Uso_único.
@@ -3784,7 +3784,7 @@ FFFFFFFF Item_do_Quest_Equilíbrio_de_Força
 FFFFFFFF Pode-se_compor_os_pedaços_através
 FFFFFFFF do_sacerdote_Amerlia.
 FFFFFFFF 
-FFFF0000 Obs._Composição_permitida_somente
+FFFF0000 OBS._Composição_permitida_somente
 FFFF0000 nos_levels_120_a_125
 FFFF0000 Não_aplicável_em_personagem_Arch.
 FFFFFFFF 
@@ -3794,7 +3794,7 @@ FFFFFFFF Item_do_Quest_Equilíbrio_de_Força.
 FFFFFFFF Devolve_os_100_pontos_de_aprendizagem
 FFFFFFFF do_skill_zerando_os_skills.
 FFFF0000 Use_o_botão_direito_do_mouse.
-FFFF0000 Obs._Composição_permitida_somente_nos
+FFFF0000 OBS._Composição_permitida_somente_nos
 FFFF0000 levels_70_a_75.
 FFFF0000 Não_aplicável_em_personagem_Arch.
 FFFF0000 Uso_único.
@@ -4101,21 +4101,11 @@ FFFF0000 as barras serão deletadas.
 4906
 FFFF00FF [Item_Exclusivo]
 FFFFFFFF 
-FFFFFFFF 
-FFFFFFFF 
-FFFFFFFF 
-FFFF0000
-FFFF0000 
-FFFF0000 
-FFFFFFFF
-4907
-FFFF00FF [Item_Exclusivo]
-FFFFFFFF 
-FFFFFFFF Utilize este Cupom para
-FFFFFFFF obter itens em Armia.
+FFFFFFFF Este item pode ser trocado no
+FFFFFFFF NPC DivineMerchant, na cidade de Armia
 FFFFFFFF 
 FFFF0000
-FFFF0000 
+FFFF0000 -Localização do NPC X:2106 Y:2047
 FFFF0000 
 FFFFFFFF
 5000
@@ -5156,7 +5146,7 @@ FFFFFFFF para_Zona_Elemental_de_Água_(normal)
 FFFFFFFF Level_6.
 FFFFFFFF 
 FFFF0000 Use-o_nas_coordenadas_X:1965_Y:1770
-FFFF0000 Obs._Relacionado_QUEST.
+FFFF0000 OBS._Relacionado_QUEST.
 FFFFFFFF 
 5136
 FFFF00FF [Item_Premium]
@@ -5238,3 +5228,113 @@ FFFFFFFF
 FFFFFFFF 
 FFFF0000 Clique_na_pedra_com_o_botão_direito_do_mouse.
 FFFFFFFF
+6000
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 40~115
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6001
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 116~190
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6002
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 191~265
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6003
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 266~320
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6004
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6005
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6006
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6007
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6008
+FFFF00FF Requisitos:
+FFFFFFFF Mortal / Lv: 1~400
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6009
+FFFF00FF Requisitos:
+FFFFFFFF Arch / Lv: 1~400
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.
+6010
+FFFF00FF Requisitos:
+FFFFFFFF Cele,Sub é HardCore / Lv: 1~400
+FFFFFFFF 
+FFFF0000 Limite da Quest:
+FFFFFFFF 1 Conta por Quest.
+FFFFFFFF 
+FFFF0000 Duração da Quest:
+FFFFFFFF c/Fada Dourada: 15 minutos.
+FFFFFFFF s/Fada Dourada: 10 minutos.

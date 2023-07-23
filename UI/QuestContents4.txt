@@ -1,14 +1,4 @@
-FFFFAA << Destrave do level 40 >>
-FFFFFF 
-FFFFFF Como destravar o personagem celestial level 40?
-FFFFFF É bem simples, você deve ir até o
-FFFFFF NPC Alquimista Odin no continente desconhecido
-AAFFFF Coordenadas :  X: 3236 Y: 1690
-FFFFFF 
-FFFFFF Itens requeridos:
-FFFFFF x02 Pergaminho Selado
-FFFFFF x01 Selo Mágico
-FFFFFF x04 Runas (Fehu, Mannaz, Thurizas and Anzus)
+FFFFAA << Sub I >>
 FFFFFF 
 FFFFFF 
 FFFFFF 
@@ -18,23 +8,33 @@ FFFFFF
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << Destrave do level 90 >>
 FFFFFF 
-FFFFFF Como destravar o personagem celestial level 90?
-FFFFFF É bem simples, você irá precisar dos seguintes itens:
-FFFFFF Pedra da Fúria
-FFFFFF 500 pontos de fama
 FFFFFF 
-FFFFFF Dica: A Pedra da Fúria pode ser criada no 
-FFFFFF NPC Alquimista Odin no continente desconhecido
-AAFFFF Coordenadas : X: 3236 Y: 1690 
 FFFFFF 
-FFFFFF Runas requeridas: Sowilo, Kenaz, Uraz,
-FFFFFF Thurisaz, Isa, Tiwaz, Hagalaz
 FFFFFF 
-FFFFFF Você pode obter fama com o item Selo do Guerreiro 
-FFFFFF a venda no NPC Farche em Erion 
-AAFFFF Coordenadas : X: 2467 Y: 2004
-FFFFFF ou
-FFFFFF no NPC Creta no continente desconhecido
-AAFFFF coordenadas X: 3265 Y: 1707 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Sub I >>
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 

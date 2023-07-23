@@ -79,10 +79,10 @@
 79	Notificações
 80	Fechar
 81	Quest
-82	Quest_350
-83	Quest_Evento
-84	Quest_Arch
-85	Quest_Celestial
+82	Quest_Mortal
+83	Quest_Arch
+84	Quest_Celestial
+85	Quest_SubCelestial
 86	Quest_Nova
 87	Ajuda
 88	Interface
