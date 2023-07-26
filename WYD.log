@@ -1,19 +1,67 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-07/22 19:42:34 - VertexShader HW Accel Enabled
-07/22 19:42:34 - Error in Init Render Target Texture
-07/22 19:42:43 - mesh\\etc046.msa , mesh\etc046.อออ 
-07/22 19:42:43 - mesh\\etc008.msa , mesh\etc008.อออ 
-07/22 19:43:20 - >> New Field Scene
-07/22 19:43:20 - >> Init Field Scene::Start
-07/22 19:43:20 - >> Init Field Scene::End
-07/22 20:00:51 - >> New Field Scene
-07/22 20:00:51 - >> Init Field Scene::Start
-07/22 20:00:51 - >> Init Field Scene::End
-07/22 20:01:07 - mesh\\etc049.msa , mesh\etc049.อออ 
-07/22 20:07:14 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-07/22 20:23:55 - mesh\\etc049.msa , mesh\etc049.อออ 
-07/22 20:24:43 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-07/22 21:17:17 - VertexShader HW Accel Enabled
-07/22 21:17:18 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/26 00:37:13 - VertexShader HW Accel Enabled
+07/26 00:37:14 - Error in Init Render Target Texture
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/26 00:37:17 - VertexShader HW Accel Enabled
+07/26 00:37:17 - Error in Init Render Target Texture
+07/26 00:37:24 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/26 00:37:24 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/26 00:37:40 - >> New Field Scene
+07/26 00:37:41 - >> Init Field Scene::Start
+07/26 00:37:42 - >> Init Field Scene::End
+07/26 00:38:15 - >> New Field Scene
+07/26 00:38:15 - >> Init Field Scene::Start
+07/26 00:38:16 - >> Init Field Scene::End
+07/26 00:38:17 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/26 00:40:20 - >> New Field Scene
+07/26 00:40:21 - >> Init Field Scene::Start
+07/26 00:40:22 - >> Init Field Scene::End
+07/26 00:40:26 - >> New Field Scene
+07/26 00:40:26 - >> Init Field Scene::Start
+07/26 00:40:26 - >> Init Field Scene::End
+07/26 00:40:36 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/26 00:41:06 - >> New Field Scene
+07/26 00:41:06 - >> Init Field Scene::Start
+07/26 00:41:07 - >> Init Field Scene::End
+07/26 00:45:47 - >> New Field Scene
+07/26 00:45:47 - >> Init Field Scene::Start
+07/26 00:45:48 - >> Init Field Scene::End
+07/26 00:46:04 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/26 00:46:10 - >> New Field Scene
+07/26 00:46:10 - >> Init Field Scene::Start
+07/26 00:46:10 - >> Init Field Scene::End
+07/26 00:46:11 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/26 00:54:46 - >> New Field Scene
+07/26 00:54:46 - >> Init Field Scene::Start
+07/26 00:54:48 - >> Init Field Scene::End
+07/26 00:56:00 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/26 00:56:02 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/26 00:56:02 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/26 00:56:25 - >> New Field Scene
+07/26 00:56:25 - >> Init Field Scene::Start
+07/26 00:56:26 - >> Init Field Scene::End
+07/26 00:56:29 - >> New Field Scene
+07/26 00:56:29 - >> Init Field Scene::Start
+07/26 00:56:30 - >> Init Field Scene::End
+07/26 00:59:33 - >> New Field Scene
+07/26 00:59:34 - >> Init Field Scene::Start
+07/26 00:59:35 - >> Init Field Scene::End
+07/26 01:02:36 - >> New Field Scene
+07/26 01:02:37 - >> Init Field Scene::Start
+07/26 01:02:38 - >> Init Field Scene::End
+07/26 01:04:11 - >> New Field Scene
+07/26 01:04:11 - >> Init Field Scene::Start
+07/26 01:04:12 - >> Init Field Scene::End
+07/26 02:07:13 - Wrong Match Time Clock [] []
+07/26 02:08:13 - Wrong Match Time Clock [] []
+07/26 02:09:13 - Wrong Match Time Clock [] []
+07/26 02:10:13 - Wrong Match Time Clock [] []
+07/26 02:11:13 - Wrong Match Time Clock [] []
+07/26 02:12:13 - Wrong Match Time Clock [] []
+07/26 02:13:13 - Wrong Match Time Clock [] []
+07/26 02:29:35 - VertexShader HW Accel Enabled
+07/26 02:38:36 - VertexShader HW Accel Enabled
