@@ -1,26 +1,10 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-07/26 23:04:06 - VertexShader HW Accel Enabled
-07/26 23:04:06 - Error in Init Render Target Texture
-07/26 23:04:25 - >> New Field Scene
-07/26 23:04:25 - >> Init Field Scene::Start
-07/26 23:04:26 - >> Init Field Scene::End
---------------------------------------------------------------------------
->>> Logging System turn on.
->>> mark 
-07/26 23:25:18 - VertexShader HW Accel Enabled
-07/26 23:25:18 - Error in Init Render Target Texture
-07/26 23:25:22 - mesh\\etc046.msa , mesh\etc046.อออ 
-07/26 23:25:22 - mesh\\etc008.msa , mesh\etc008.อออ 
-07/26 23:25:48 - >> New Field Scene
-07/26 23:25:48 - >> Init Field Scene::Start
-07/26 23:25:48 - >> Init Field Scene::End
---------------------------------------------------------------------------
->>> Logging System turn on.
->>> mark 
-07/26 23:26:30 - VertexShader HW Accel Enabled
-07/26 23:26:30 - Error in Init Render Target Texture
-07/26 23:26:47 - >> New Field Scene
-07/26 23:26:47 - >> Init Field Scene::Start
-07/26 23:26:48 - >> Init Field Scene::End
+07/27 16:20:53 - VertexShader HW Accel Enabled
+07/27 16:20:53 - Error in Init Render Target Texture
+07/27 16:21:08 - >> New Field Scene
+07/27 16:21:08 - >> Init Field Scene::Start
+07/27 16:21:08 - >> Init Field Scene::End
+07/27 16:21:10 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/27 16:21:32 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
