@@ -4,6 +4,6 @@ Detect
 Abs_HP
 +HP/DEF
 +HP/ATQ
-+Precisão
++Prec
 MP_=_HP
-+Critico
++Crit
