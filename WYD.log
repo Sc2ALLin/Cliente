@@ -1,27 +1,81 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-07/27 20:14:03 - VertexShader HW Accel Enabled
-07/27 20:14:03 - Error in Init Render Target Texture
-07/27 20:14:18 - >> New Field Scene
-07/27 20:14:18 - >> Init Field Scene::Start
-07/27 20:14:19 - >> Init Field Scene::End
-07/27 20:14:21 - mesh\\etc049.msa , mesh\etc049.อออ 
-07/27 20:19:14 - >> New Field Scene
-07/27 20:19:14 - >> Init Field Scene::Start
-07/27 20:19:15 - >> Init Field Scene::End
+07/29 03:04:38 - VertexShader HW Accel Enabled
+07/29 03:04:38 - Error in Init Render Target Texture
+07/29 03:04:55 - >> New Field Scene
+07/29 03:04:55 - >> Init Field Scene::Start
+07/29 03:04:56 - >> Init Field Scene::End
+07/29 03:10:51 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 03:10:51 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 03:11:23 - >> New Field Scene
+07/29 03:11:23 - >> Init Field Scene::Start
+07/29 03:11:24 - >> Init Field Scene::End
+07/29 03:12:36 - >> New Field Scene
+07/29 03:12:36 - >> Init Field Scene::Start
+07/29 03:12:36 - >> Init Field Scene::End
+07/29 03:15:51 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 03:15:51 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 03:16:13 - >> New Field Scene
+07/29 03:16:13 - >> Init Field Scene::Start
+07/29 03:16:13 - >> Init Field Scene::End
+07/29 03:17:24 - >> New Field Scene
+07/29 03:17:24 - >> Init Field Scene::Start
+07/29 03:17:25 - >> Init Field Scene::End
+07/29 03:18:18 - >> New Field Scene
+07/29 03:18:18 - >> Init Field Scene::Start
+07/29 03:18:18 - >> Init Field Scene::End
+07/29 03:18:35 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 03:18:55 - mesh\\jwal25.msa , mesh\jwal25.อออ 
+07/29 03:20:05 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/29 03:22:16 - mesh\\jwal27.msa , mesh\jwal27.อออ 
+07/29 03:22:16 - mesh\\jwal26.msa , mesh\jwal26.อออ 
+07/29 03:22:16 - mesh\\jwal25.msa , mesh\jwal25.อออ 
+07/29 03:37:44 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 03:38:30 - >> New Field Scene
+07/29 03:38:30 - >> Init Field Scene::Start
+07/29 03:38:30 - >> Init Field Scene::End
+07/29 03:39:10 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/29 03:39:19 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 03:39:19 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 03:39:35 - >> New Field Scene
+07/29 03:39:35 - >> Init Field Scene::Start
+07/29 03:39:36 - >> Init Field Scene::End
+07/29 05:27:30 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/29 05:34:33 - mesh\\jwal27.msa , mesh\jwal27.อออ 
+07/29 05:34:33 - mesh\\jwal26.msa , mesh\jwal26.อออ 
+07/29 05:34:33 - mesh\\jwal25.msa , mesh\jwal25.อออ 
+07/29 05:35:33 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/29 05:57:49 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 05:57:49 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 05:58:49 - >> New Field Scene
+07/29 05:58:49 - >> Init Field Scene::Start
+07/29 05:58:49 - >> Init Field Scene::End
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-07/27 20:19:19 - VertexShader HW Accel Enabled
-07/27 20:19:19 - Error in Init Render Target Texture
-07/27 20:19:41 - >> New Field Scene
-07/27 20:19:41 - >> Init Field Scene::Start
-07/27 20:19:42 - >> Init Field Scene::End
-07/27 20:19:44 - mesh\\etc049.msa , mesh\etc049.อออ 
-07/27 20:19:59 - mesh\\etc046.msa , mesh\etc046.อออ 
-07/27 20:19:59 - mesh\\etc009.msa , mesh\etc009.อออ 
-07/27 20:25:31 - >> New Field Scene
-07/27 20:25:31 - >> Init Field Scene::Start
-07/27 20:25:32 - >> Init Field Scene::End
-07/27 20:26:19 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 05:58:56 - VertexShader HW Accel Enabled
+07/29 05:58:56 - Error in Init Render Target Texture
+07/29 05:59:24 - >> New Field Scene
+07/29 05:59:24 - >> Init Field Scene::Start
+07/29 05:59:25 - >> Init Field Scene::End
+07/29 05:59:39 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 06:00:31 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+07/29 06:04:43 - mesh\\jwal27.msa , mesh\jwal27.อออ 
+07/29 06:04:43 - mesh\\jwal26.msa , mesh\jwal26.อออ 
+07/29 06:04:43 - mesh\\jwal25.msa , mesh\jwal25.อออ 
+07/29 06:32:42 - >> New Field Scene
+07/29 06:32:42 - >> Init Field Scene::Start
+07/29 06:32:43 - >> Init Field Scene::End
+07/29 06:32:45 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 06:38:09 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 06:38:09 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 06:38:49 - >> New Field Scene
+07/29 06:38:49 - >> Init Field Scene::Start
+07/29 06:38:49 - >> Init Field Scene::End
+07/29 06:42:19 - mesh\\etc049.msa , mesh\etc049.อออ 
+07/29 06:44:48 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/29 06:44:48 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/29 07:12:53 - >> New Field Scene
+07/29 07:12:53 - >> Init Field Scene::Start
+07/29 07:12:54 - >> Init Field Scene::End
