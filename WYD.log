@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/31 20:25:48 - VertexShader HW Accel Enabled
+07/31 20:25:48 - Error in Init Render Target Texture
+07/31 20:25:51 - mesh\\etc046.msa , mesh\etc046.อออ 
+07/31 20:25:51 - mesh\\etc008.msa , mesh\etc008.อออ 
+07/31 20:26:01 - >> New Field Scene
+07/31 20:26:01 - >> Init Field Scene::Start
+07/31 20:26:02 - >> Init Field Scene::End
+07/31 20:26:04 - mesh\\etc049.msa , mesh\etc049.อออ 
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/31 20:28:14 - VertexShader HW Accel Enabled
+07/31 20:28:14 - Error in Init Render Target Texture
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/31 20:28:18 - VertexShader HW Accel Enabled
+07/31 20:28:18 - Error in Init Render Target Texture
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+07/31 20:28:44 - VertexShader HW Accel Enabled
+07/31 20:28:44 - Error in Init Render Target Texture
+07/31 21:04:35 - >> New Field Scene
+07/31 21:04:35 - >> Init Field Scene::Start
+07/31 21:04:36 - >> Init Field Scene::End
