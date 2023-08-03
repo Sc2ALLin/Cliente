@@ -1,9 +1,41 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-08/01 15:35:33 - VertexShader HW Accel Enabled
-08/01 15:35:33 - Error in Init Render Target Texture
-08/01 15:35:44 - >> New Field Scene
-08/01 15:35:44 - >> Init Field Scene::Start
-08/01 15:35:45 - >> Init Field Scene::End
-08/01 15:35:47 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 14:24:56 - VertexShader HW Accel Enabled
+08/03 14:24:56 - Error in Init Render Target Texture
+08/03 14:36:36 - >> New Field Scene
+08/03 14:36:36 - >> Init Field Scene::Start
+08/03 14:36:37 - >> Init Field Scene::End
+08/03 14:36:39 - mesh\\win072.msa , mesh\win072.อออ 
+08/03 14:41:03 - >> New Field Scene
+08/03 14:41:03 - >> Init Field Scene::Start
+08/03 14:41:04 - >> Init Field Scene::End
+08/03 14:41:06 - mesh\\win072.msa , mesh\win072.อออ 
+08/03 14:41:14 - mesh\\etc065.msa , mesh\etc065.อออ 
+08/03 14:41:14 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 14:42:04 - >> New Field Scene
+08/03 14:42:04 - >> Init Field Scene::Start
+08/03 14:42:05 - >> Init Field Scene::End
+08/03 14:52:28 - mesh\\etc065.msa , mesh\etc065.อออ 
+08/03 14:52:28 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 15:13:20 - mesh\\etc009.msa , mesh\etc009.อออ 
+08/03 15:16:00 - mesh\\etc065.msa , mesh\etc065.อออ 
+08/03 15:16:35 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 15:22:35 - mesh\\etc065.msa , mesh\etc065.อออ 
+08/03 15:22:35 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 15:25:28 - >> New Field Scene
+08/03 15:25:28 - >> Init Field Scene::Start
+08/03 15:25:28 - >> Init Field Scene::End
+08/03 15:25:29 - mesh\\etc009.msa , mesh\etc009.อออ 
+08/03 15:28:58 - >> New Field Scene
+08/03 15:28:58 - >> Init Field Scene::Start
+08/03 15:28:59 - >> Init Field Scene::End
+08/03 15:29:13 - mesh\\etc049.msa , mesh\etc049.อออ 
+08/03 16:13:50 - >> New Field Scene
+08/03 16:13:50 - >> Init Field Scene::Start
+08/03 16:13:51 - >> Init Field Scene::End
+08/03 16:31:59 - mesh\\etc009.msa , mesh\etc009.อออ 
+08/03 16:37:52 - >> New Field Scene
+08/03 16:37:52 - >> Init Field Scene::Start
+08/03 16:37:53 - >> Init Field Scene::End
+08/03 16:38:16 - mesh\\etc065.msa , mesh\etc065.อออ 
