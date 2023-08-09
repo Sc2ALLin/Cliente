@@ -251,7 +251,7 @@
 252	Gritar
 253	Tamanho
 254	Brilho
-255	AUTO_Aceitação_Grupo
+255	Auto_Grupo
 256	Gerar
 257	Composição
 258	Comprar

@@ -1849,7 +1849,7 @@ FFFF0000 Aumenta_bastante_o_poder_de_ataque.
 FFFF0000 Durabilidade:_20_horas/poção.
 FFFFFFFF 
 3322
-FFFF00FF [Item_Cura]
+FFFF00FF [Item_de_Cura]
 FFFFFFFF 
 FFFFFFFF Recupera_500_de_HP.
 FFFFFFFF 
@@ -1859,7 +1859,7 @@ FFFF0000 Atalho:_Tecla_Q.
 FFFF0000 Efeito: +500 HP.
 FFFFFFFF 
 3323
-FFFF00FF [Item_Cura]
+FFFF00FF [Item_de_Cura]
 FFFFFFFF 
 FFFFFFFF Recupera_500_de_Mana.
 FFFFFFFF 
@@ -2721,12 +2721,12 @@ FFFFFFFF
 3431
 FFFFFFFF 
 FFFFFFFF 
-FFF00FFF [Item_Premium]
-FFFFFFFF Poção_de_alta_qualidade_que_recupera
-FFFFFFFF HP_e_mana_(HP_+_MP).
+FFF00FFF [Item_de_Cura]
+FFFFFFFF Poção_de_alta_qualidade
+FFFFFFFF que recupera HP/MP.
 FFFFFFFF
 "FFFF0000 Atalho_tecla_""Q""._Não_vendável."
-FFFF0000 Efeito:_HP_1000_MP_1000.
+FFFF0000 Efeito:_HP_1000_/_MP_1000.
 FFFFFFFF 
 3432
 FFFFFFFF 
