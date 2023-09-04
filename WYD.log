@@ -1,120 +1,87 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-08/27 09:11:26 - VertexShader HW Accel Enabled
-08/27 09:11:26 - Error in Init Render Target Texture
-08/27 09:11:54 - >> New Field Scene
-08/27 09:11:54 - >> Init Field Scene::Start
-08/27 09:11:55 - >> Init Field Scene::End
-08/27 09:11:57 - mesh\\etc049.msa , mesh\etc049.อออ 
-08/27 09:18:26 - >> New Field Scene
-08/27 09:18:26 - >> Init Field Scene::Start
-08/27 09:18:27 - >> Init Field Scene::End
-08/27 09:27:28 - >> New Field Scene
-08/27 09:27:28 - >> Init Field Scene::Start
-08/27 09:27:29 - >> Init Field Scene::End
-08/27 09:27:31 - mesh\\etc049.msa , mesh\etc049.อออ 
-08/27 09:44:42 - >> New Field Scene
-08/27 09:44:42 - >> Init Field Scene::Start
-08/27 09:44:42 - >> Init Field Scene::End
-08/27 09:45:40 - >> New Field Scene
-08/27 09:45:40 - >> Init Field Scene::Start
-08/27 09:45:40 - >> Init Field Scene::End
-08/27 10:00:10 - >> New Field Scene
-08/27 10:00:10 - >> Init Field Scene::Start
-08/27 10:00:11 - >> Init Field Scene::End
+09/04 17:16:01 - VertexShader HW Accel Enabled
+09/04 17:16:01 - Error in Init Render Target Texture
+09/04 17:16:17 - >> New Field Scene
+09/04 17:16:17 - >> Init Field Scene::Start
+09/04 17:16:18 - >> Init Field Scene::End
+09/04 17:16:20 - mesh\\etc049.msa , mesh\etc049.อออ 
+09/04 17:16:30 - >> New Field Scene
+09/04 17:16:30 - >> Init Field Scene::Start
+09/04 17:16:30 - >> Init Field Scene::End
+09/04 17:16:58 - mesh\\jwal25.msa , mesh\jwal25.อออ 
+09/04 17:16:58 - mesh\\jwal26.msa , mesh\jwal26.อออ 
+09/04 17:17:08 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
+09/04 17:17:25 - mesh\\jwal27.msa , mesh\jwal27.อออ 
+09/04 17:18:19 - mesh\\track6.msa , mesh\track6.อออ 
+09/04 17:45:21 - mesh\\etc049.msa , mesh\etc049.อออ 
+09/04 17:46:44 - >> New Field Scene
+09/04 17:46:44 - >> Init Field Scene::Start
+09/04 17:46:44 - >> Init Field Scene::End
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-08/27 10:06:54 - VertexShader HW Accel Enabled
-08/27 10:06:54 - Error in Init Render Target Texture
-08/27 10:07:13 - >> New Field Scene
-08/27 10:07:13 - >> Init Field Scene::Start
-08/27 10:07:14 - >> Init Field Scene::End
-08/27 10:07:16 - mesh\\etc049.msa , mesh\etc049.อออ 
-08/27 10:08:04 - >> New Field Scene
-08/27 10:08:04 - >> Init Field Scene::Start
-08/27 10:08:05 - >> Init Field Scene::End
-08/27 10:25:25 - >> New Field Scene
-08/27 10:25:25 - >> Init Field Scene::Start
-08/27 10:25:26 - >> Init Field Scene::End
-08/27 10:25:30 - mesh\\etc049.msa , mesh\etc049.อออ 
-08/27 21:00:22 - Wrong Match Time Clock [] []
-08/27 21:01:17 - >> New Field Scene
-08/27 21:01:17 - >> Init Field Scene::Start
-08/27 21:01:18 - >> Init Field Scene::End
-08/27 20:01:48 - Wrong Match Time Clock [] []
-08/27 20:02:48 - Wrong Match Time Clock [] []
-08/27 20:03:48 - Wrong Match Time Clock [] []
-08/27 20:04:48 - Wrong Match Time Clock [] []
-08/27 20:05:48 - Wrong Match Time Clock [] []
-08/27 20:06:48 - Wrong Match Time Clock [] []
-08/27 20:07:48 - Wrong Match Time Clock [] []
-08/27 20:08:48 - Wrong Match Time Clock [] []
-08/27 20:09:48 - Wrong Match Time Clock [] []
-08/27 20:10:48 - Wrong Match Time Clock [] []
-08/27 19:59:16 - >> New Field Scene
-08/27 19:59:16 - >> Init Field Scene::Start
-08/27 19:59:17 - >> Init Field Scene::End
-08/27 19:59:07 - Wrong Match Time Clock [] []
-08/27 19:59:18 - >> New Field Scene
-08/27 19:59:18 - >> Init Field Scene::Start
-08/27 19:59:19 - >> Init Field Scene::End
-08/27 12:03:55 - Wrong Match Time Clock [] []
-08/27 12:04:55 - Wrong Match Time Clock [] []
-08/27 12:05:55 - Wrong Match Time Clock [] []
-08/27 12:06:55 - Wrong Match Time Clock [] []
-08/27 12:07:55 - Wrong Match Time Clock [] []
-08/27 12:08:55 - Wrong Match Time Clock [] []
-08/27 12:09:55 - Wrong Match Time Clock [] []
-08/27 12:10:55 - Wrong Match Time Clock [] []
-08/27 12:11:55 - Wrong Match Time Clock [] []
-08/27 12:12:55 - Wrong Match Time Clock [] []
-08/27 12:13:55 - Wrong Match Time Clock [] []
-08/27 12:14:55 - Wrong Match Time Clock [] []
-08/27 12:15:55 - Wrong Match Time Clock [] []
-08/27 12:16:55 - Wrong Match Time Clock [] []
-08/27 12:17:55 - Wrong Match Time Clock [] []
-08/27 12:18:55 - Wrong Match Time Clock [] []
-08/27 12:19:55 - Wrong Match Time Clock [] []
-08/27 12:20:55 - Wrong Match Time Clock [] []
-08/27 12:21:55 - Wrong Match Time Clock [] []
-08/27 12:22:55 - Wrong Match Time Clock [] []
-08/27 12:23:55 - Wrong Match Time Clock [] []
-08/27 12:24:55 - Wrong Match Time Clock [] []
-08/27 12:25:55 - Wrong Match Time Clock [] []
-08/27 12:26:55 - Wrong Match Time Clock [] []
-08/27 12:27:55 - Wrong Match Time Clock [] []
-08/27 12:28:55 - Wrong Match Time Clock [] []
-08/27 12:29:55 - Wrong Match Time Clock [] []
-08/27 12:30:55 - Wrong Match Time Clock [] []
-08/27 12:31:55 - Wrong Match Time Clock [] []
-08/27 12:32:55 - Wrong Match Time Clock [] []
-08/27 12:33:55 - Wrong Match Time Clock [] []
-08/27 12:34:55 - Wrong Match Time Clock [] []
-08/27 12:35:55 - Wrong Match Time Clock [] []
-08/27 12:36:55 - Wrong Match Time Clock [] []
-08/27 12:37:55 - Wrong Match Time Clock [] []
-08/27 12:38:55 - Wrong Match Time Clock [] []
-08/27 12:39:55 - Wrong Match Time Clock [] []
-08/27 12:40:55 - Wrong Match Time Clock [] []
-08/27 12:41:55 - Wrong Match Time Clock [] []
-08/27 12:42:55 - Wrong Match Time Clock [] []
-08/27 12:43:55 - Wrong Match Time Clock [] []
-08/27 12:44:55 - Wrong Match Time Clock [] []
-08/27 12:45:55 - Wrong Match Time Clock [] []
-08/27 12:46:55 - Wrong Match Time Clock [] []
-08/27 12:47:55 - Wrong Match Time Clock [] []
-08/27 12:48:55 - Wrong Match Time Clock [] []
-08/27 12:49:55 - Wrong Match Time Clock [] []
-08/27 12:50:55 - Wrong Match Time Clock [] []
-08/27 12:51:55 - Wrong Match Time Clock [] []
-08/27 12:52:55 - Wrong Match Time Clock [] []
-08/27 12:53:55 - Wrong Match Time Clock [] []
-08/27 12:54:55 - Wrong Match Time Clock [] []
-08/27 12:55:55 - Wrong Match Time Clock [] []
-08/27 12:56:55 - Wrong Match Time Clock [] []
-08/27 12:57:55 - Wrong Match Time Clock [] []
-08/27 12:58:55 - Wrong Match Time Clock [] []
-08/27 12:59:55 - Wrong Match Time Clock [] []
-08/27 13:00:55 - Wrong Match Time Clock [] []
+09/04 17:48:28 - VertexShader HW Accel Enabled
+09/04 17:48:28 - Error in Init Render Target Texture
+09/04 17:48:38 - >> New Field Scene
+09/04 17:48:38 - >> Init Field Scene::Start
+09/04 17:48:39 - >> Init Field Scene::End
+09/04 17:48:41 - mesh\\etc049.msa , mesh\etc049.อออ 
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+09/04 17:50:20 - VertexShader HW Accel Enabled
+09/04 17:50:20 - Error in Init Render Target Texture
+09/04 17:50:33 - >> New Field Scene
+09/04 17:50:33 - >> Init Field Scene::Start
+09/04 17:50:34 - >> Init Field Scene::End
+09/04 17:50:36 - mesh\\etc049.msa , mesh\etc049.อออ 
+09/04 17:51:04 - >> New Field Scene
+09/04 17:51:04 - >> Init Field Scene::Start
+09/04 17:51:05 - >> Init Field Scene::End
+09/04 17:51:43 - >> New Field Scene
+09/04 17:51:43 - >> Init Field Scene::Start
+09/04 17:51:43 - >> Init Field Scene::End
+09/04 17:51:59 - >> New Field Scene
+09/04 17:51:59 - >> Init Field Scene::Start
+09/04 17:52:00 - >> Init Field Scene::End
+09/04 17:52:15 - >> New Field Scene
+09/04 17:52:15 - >> Init Field Scene::Start
+09/04 17:52:16 - >> Init Field Scene::End
+09/04 17:52:31 - >> New Field Scene
+09/04 17:52:31 - >> Init Field Scene::Start
+09/04 17:52:32 - >> Init Field Scene::End
+09/04 17:52:45 - >> New Field Scene
+09/04 17:52:45 - >> Init Field Scene::Start
+09/04 17:52:45 - >> Init Field Scene::End
+09/04 17:53:12 - >> New Field Scene
+09/04 17:53:12 - >> Init Field Scene::Start
+09/04 17:53:12 - >> Init Field Scene::End
+09/04 17:53:40 - >> New Field Scene
+09/04 17:53:40 - >> Init Field Scene::Start
+09/04 17:53:41 - >> Init Field Scene::End
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+09/04 17:53:50 - VertexShader HW Accel Enabled
+09/04 17:53:50 - Error in Init Render Target Texture
+09/04 17:54:04 - >> New Field Scene
+09/04 17:54:04 - >> Init Field Scene::Start
+09/04 17:54:05 - >> Init Field Scene::End
+09/04 17:54:07 - mesh\\etc049.msa , mesh\etc049.อออ 
+09/04 17:54:40 - >> New Field Scene
+09/04 17:54:40 - >> Init Field Scene::Start
+09/04 17:54:41 - >> Init Field Scene::End
+09/04 17:57:24 - >> New Field Scene
+09/04 17:57:24 - >> Init Field Scene::Start
+09/04 17:57:25 - >> Init Field Scene::End
+09/04 17:58:56 - >> New Field Scene
+09/04 17:58:56 - >> Init Field Scene::Start
+09/04 17:58:56 - >> Init Field Scene::End
+09/04 17:59:47 - >> New Field Scene
+09/04 17:59:47 - >> Init Field Scene::Start
+09/04 17:59:48 - >> Init Field Scene::End
+09/04 18:00:47 - >> New Field Scene
+09/04 18:00:47 - >> Init Field Scene::Start
+09/04 18:00:48 - >> Init Field Scene::End

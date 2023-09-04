@@ -1,7 +1,7 @@
- 
-2116	2150	1	-40	5	Martin
-2107	2144	1	0	-3	Comb.Balmus
-2134	2126	1	-60	-15	ForeLearner
+
+2115	2150	1	0	-5	Martin
+2107	2144	1	0	-3	Comb._Balmus
+2134	2126	1	0	-10	ForeLearner
 2144	2120	1	0	-10	Cap.Cavaleiros
 2144	2116	1	0	-5	Smith
 2074	2120	1	0	-5	Arnod
@@ -17,7 +17,7 @@
 2141	2069	3	0	-5	Zona_de_Teleporte(Campo_Armia)
 2112	2075	2	0	-3	Guarda_Armia
 2118	2043	1	0	-10	Chefe_de_Treino
-2123	2144	2	-30	-15	Arena_PvP
+2123	2144	2	0	-5	Arena_PvP
 2104	2148	2	-45	-3	Zona_de_Guilda
 2144	2102	2	0	-5	Campo_(Armia)
 2486	2129	4	0	0	Castelo_Orc(Portão_Sul)
@@ -36,9 +36,9 @@
 2466	1692	1	0	0	Rapein
 2466	1686	1	0	0	Arnod
 2500	1690	1	-30	-13	Lainy
-2500	1684	1	0	-5	Ferreiro
+2500	1684	1	0	-5	Smith
 2490	1688	1	0	-5	Dragão_de_Azran
-2538	1714	1	0	-5	Comb.Kara
+2538	1714	1	0	-5	Comb._Kara
 2550	1716	1	0	-5	Lucy
 2594	1724	1	0	-5	Hera
 2481	1717	3	0	-5	Teleporte(Noatun)
@@ -72,11 +72,10 @@
 2466	2018	1	-70	-5	C._de_Montaria
 2457	2017	3	-70	-5	Zona_de_Teleporte(Noatun)
 2475	2010	2	-28	-15	Entrada_Campo_Erion
-1056	1738	1	0	-5	Berlund
+1056	1738	1	0	-5	Wieland
 1064	1738	1	0	-5	Hestia
 1048	1744	1	-25	6	Angela
-1060	1744	1	-82	-5	Judith
-1068	1744	1	-30	-15	Projnnah
+1060	1744	1	0	-5	Judith
 1045	1725	3	0	-5	Zona_de_Teleporte(Armia)
 1045	1717	3	0	-5	Zona_de_Teleporte(Azran)
 1045	1709	3	0	-5	Zona_de_Teleporte(Erion)
@@ -102,7 +101,7 @@
 2481	1646	1	0	0	Juli
 3649	3134	1	0	0	Juli
 1706	1727	1	0	-8	Lindy
-3643    3108    1       0	0	Martin
+3643    3108    1       0	0	Mai
 3646    3117    1       0	0	Tiny
 3638    3116    1       0	0	Bruce
 3659    3134    1       0	0       Guarda_Carga
