@@ -1,6 +1,6 @@
 
 2115	2150	1	0	-5	Martin
-2107	2144	1	0	-3	Comb._Balmus
+2107	2144	1	0	-3	Balmus
 2134	2126	1	0	-10	ForeLearner
 2144	2120	1	0	-10	Cap.Cavaleiros
 2144	2116	1	0	-5	Smith
@@ -38,7 +38,7 @@
 2500	1690	1	-30	-13	Lainy
 2500	1684	1	0	-5	Smith
 2490	1688	1	0	-5	Dragão_de_Azran
-2538	1714	1	0	-5	Comb._Kara
+2538	1714	1	0	-5	Kara
 2550	1716	1	0	-5	Lucy
 2594	1724	1	0	-5	Hera
 2481	1717	3	0	-5	Teleporte(Noatun)
@@ -60,11 +60,11 @@
 1742	1815	2	0	0	Reino_Akelonia
 1742	1640	2	0	0	Reino_Hekalotia
 2240	1273	2	0	0	Dois_Castelos
-2468	1994	1	0	0	Rophelion
+2468	1994	1	0	0	Ropelion
 2468	1998	1	0	-5	Neptus
 2468	1996	1	0	-5	Reimers
-2468	1992	1	0	0	Lubien
-2458	1986	1	-40	10	Comb.Empis
+2468	1992	1	0	0	Rubien
+2458	1986	1	-40	10	Empis
 2456	2010	1	-80	-5	M_de_Montaria
 2468	2006	1	-30	-13	Parche
 2468	2002	1	0	-5	Reiners
@@ -101,11 +101,11 @@
 2481	1646	1	0	0	Juli
 3649	3134	1	0	0	Juli
 1706	1727	1	0	-8	Lindy
-3643    3108    1       0	0	Mai
-3646    3117    1       0	0	Tiny
-3638    3116    1       0	0	Bruce
-3659    3134    1       0	0       Guarda_Carga
-3655    3117    1       0	0       Shany
+3643    3108    1	0	0	Mai
+3646    3117    1	0	0	Tiny
+3638    3116    1	0	0	Bruce
+3659    3134    1	0	0	Guarda_Carga
+3655    3117    1	0	0	Shany
 2135	2106	1	0	0	Kibita
 2113	2079	1	0	-3	Mestre_Grifo
 3297	1693	1	0	0	Uxmal
