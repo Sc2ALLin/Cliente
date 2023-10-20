@@ -3609,15 +3609,15 @@ FFFF0000 Tecla_de_atalho_""Q""
 FFFF0000 Efeito:_HP_1000_e_MP_1000.
 FFFFFFFF 
 4105
-FFFF00FF Item_de_Evento              
-FFFFFFFF                         
-FFFFFFFF Feliz_Ano_Novo_Chinês!
-FFFFFFFF   
-FFFFFFFF Clique_com_o_botão_direito
-FFFFFFFF para_receber_um_bônus
-FFFFFFFF                        OU
-FFFF0000 Guarde_para_ganhar_outros
-FFFF0000 presentes.
+FFFFFFFF 
+FFFFFFFF Item_que_é_possível_trocar_por
+FFFFFFFF 500_Mil_de_GOLD.
+FFFFFFFF 
+FFFFFFFF
+FFFF0000 Acumula_500_Mil_de_gold_no_seu_inventário.
+FFFF0000 Use_clicando_com_botão_direito_do_mouse
+FFFFFFFF
+FFFFFFFF
 4106
 FFFF00FF [_Item_de_Quest_]
 FFFFFFFF 
@@ -5280,7 +5280,7 @@ FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6005
 FFFF00FF Requisitos:
-FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF Mortal / Lv: 101~150
 FFFFFFFF 
 FFFF0000 Limite da Quest:
 FFFFFFFF 1 Conta por Quest.
@@ -5290,7 +5290,7 @@ FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6006
 FFFF00FF Requisitos:
-FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF Mortal / Lv: 201~205
 FFFFFFFF 
 FFFF0000 Limite da Quest:
 FFFFFFFF 1 Conta por Quest.
@@ -5300,7 +5300,7 @@ FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6007
 FFFF00FF Requisitos:
-FFFFFFFF Mortal / Lv: 321~350
+FFFFFFFF Mortal / Lv: 220~250
 FFFFFFFF 
 FFFF0000 Limite da Quest:
 FFFFFFFF 1 Conta por Quest.
@@ -5310,7 +5310,7 @@ FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6008
 FFFF00FF Requisitos:
-FFFFFFFF Mortal / Lv: 1~400
+FFFFFFFF Mortal / Lv: 70~75
 FFFFFFFF 
 FFFF0000 Limite da Quest:
 FFFFFFFF 1 Conta por Quest.
@@ -5320,7 +5320,7 @@ FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6009
 FFFF00FF Requisitos:
-FFFFFFFF Arch / Lv: 1~400
+FFFFFFFF Arch / Lv: 120~125
 FFFFFFFF 
 FFFF0000 Limite da Quest:
 FFFFFFFF 1 Conta por Quest.
@@ -5329,22 +5329,22 @@ FFFF0000 Duração da Quest:
 FFFFFFFF 15 minutos c/Fada Dourada.
 FFFFFFFF 10 minutos s/Fada Dourada.
 6010
-FFFF00FF Requisitos:
-FFFFFFFF Cele,Sub é HardCore / Lv: 1~400
+FFFFFFFF All / Lv: 60~400
 FFFFFFFF 
-FFFF0000 Limite da Quest:
-FFFFFFFF 1 Conta por Quest.
-FFFFFFFF 
-FFFF0000 Duração da Quest:
-FFFFFFFF 15 minutos c/Fada Dourada.
-FFFFFFFF 10 minutos s/Fada Dourada.
-6011
-FFFF00FF Requisitos:
-FFFFFFFF Arch / Lv: 355~400
-FFFFFFFF 10.000.000 de Exp
 FFFFFFFF
 FFFF0000 Bônus da Quest:
-FFFFFFFF 80 de MP.
+FFFFFFFF Amuleto Místico.
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+6011
+FFFF00FF Requisitos:
+FFFFFFFF All / Lv: 40~400
+FFFFFFFF 
+FFFFFFFF
+FFFF0000 Bônus da Quest:
+FFFFFFFF 9 pontos de Skill.
 FFFFFFFF
 FFFFFFFF
 FFFFFFFF
@@ -5354,7 +5354,7 @@ FFFFFFFF Arch / Lv: 355~400
 FFFFFFFF 10.000.000 de Exp
 FFFFFFFF
 FFFF0000 Bônus da Quest:
-FFFFFFFF 30 de DEF.
+FFFFFFFF 80 de MP.
 FFFFFFFF
 FFFFFFFF
 FFFFFFFF
@@ -5364,7 +5364,7 @@ FFFFFFFF Arch / Lv: 355~400
 FFFFFFFF 10.000.000 de Exp
 FFFFFFFF
 FFFF0000 Bônus da Quest:
-FFFFFFFF 80 de HP.
+FFFFFFFF 30 de DEF.
 FFFFFFFF
 FFFFFFFF
 FFFFFFFF
@@ -5374,7 +5374,18 @@ FFFFFFFF Arch / Lv: 355~400
 FFFFFFFF 10.000.000 de Exp
 FFFFFFFF
 FFFF0000 Bônus da Quest:
+FFFFFFFF 80 de HP.
+FFFFFFFF
+FFFFFFFF
+FFFFFFFF
+6015
+FFFF00FF Requisitos:
+FFFFFFFF Arch / Lv: 355~400
+FFFFFFFF 10.000.000 de Exp
+FFFFFFFF
+FFFF0000 Bônus da Quest:
 FFFFFFFF 80 de HP
 FFFFFFFF 20 de DEF
 FFFFFFFF 60 de MP
 FFFFFFFF
+

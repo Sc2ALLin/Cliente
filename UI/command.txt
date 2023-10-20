@@ -1,27 +1,4 @@
 FFFFFF  
-FFFFFF Comandos de Player
-FFFFAA /spk [menssagem]
-AAFFAA Envia uma mensagem para todo o servidor em verde.
-AAFFAA Deve ter a trombeta no inventário para usar o comando.
-FFFFAA
-FFFFAA /ativar [serial]
-AAFFAA Utilizado para ativar determinado serial.
-FFFFAA
-FFFFAA /senha
-AAFFAA Utilizado para os jogadores entrar no seu grupo.
-FFFFAA
-FFFFAA /entrar [nome] [senha]
-AAFFAA Utilizado para entrar em um grupo com senha.
-FFFFAA
-FFFFAA /transLider [nome]
-AAFFAA Utilizado para transferir a liderança do seu grupo.
-FFFFAA
-FFFFAA /cash
-AAFFAA Utilizado para se teletransporta para a área do shop.
-FFFFAA
-FFFFAA /novato
-AAFFAA Utilizado para receber um recompensa do servidor.
-FFFFFF  
 FFFFFF Comandos de Guilda
 FFFFAA /criar [nome da Guilda]
 AAFFAA Cria uma guilda com o nome escolhido. São necessários 100,000,000 gold.
@@ -29,9 +6,6 @@ AAFFAA Deve ser usado no canal onde o personagem é cidadão.
 FFFFAA
 FFFFAA guild
 AAFFAA Verifica os membros online e a situação atual da guerra de sua Guilda.
-FFFFAA
-FFFFAA /guildmsg
-AAFFAA Define uma menssagem para toda sua guilda.
 FFFFAA
 FFFFAA /expulsar [nome do membro]
 AAFFAA Membro: usado para sair da guilda atual. Não é necessário adicionar um nome.

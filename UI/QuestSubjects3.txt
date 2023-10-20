@@ -1,5 +1,5 @@
-010 FFFFFF [Refinação Capa Cestial]
-040 FFFFFF [Destrave do level 40]
-090 FFFFFF [Destrave do level 90]
-400 FFFFFF [Sub-Celestial]
-200 FFFFFF [Cythera Arcana]
+351 FFFFFF [Os 4 cristais] Quest- LV 355
+351 FFFFFF [Primeiro: Água] Quest- LV 355
+351 FFFFFF [Segundo: Vento] Quest- LV 355
+351 FFFFFF [Terceiro: Fogo] Quest- LV 355
+351 FFFFFF [Quarto: Terra]  Quest- LV 355

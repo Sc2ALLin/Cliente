@@ -50,7 +50,7 @@
 50	Confirmar
 51	Cancelar
 52	Insira_Senha
-53	Servidor_/_Canal
+53	Servidor / Canal
 54	Personagem
 55	Finalizar
 56	Cancelar
@@ -79,10 +79,10 @@
 79	Notificações
 80	Fechar
 81	Quest
-82	Quest_Mortal
-83	Quest_Arch
-84	Quest_Celestial
-85	Quest_SubCelestial
+82	Quest_350
+83	Quest_Evento
+84	Quest_Arch
+85	Quest_Celestial
 86	Quest_Nova
 87	Ajuda
 88	Interface
@@ -123,7 +123,7 @@
 123	Grupo_(P,D)
 124	Normal
 125	Cidadão
-126	Mensagem
+126	PVT
 127	Guilda
 128	Personagem
 129	Informações
@@ -222,44 +222,34 @@
 222	APOSTA
 223	1.000
 224	_NENHUM
-225	Copyright_2005~2009_VANAHEIM._All_Rights_Reserved.
+225	_
 226	__Controle_de_Combate:_Físico
 227	__Controle_de_Combate:_Mágico
-228	Lv.
+228	Nv
 229	__Controle_de_Combate:_Desativado
 230	__Poções_(%)
 231	__Rações_(%)
 232	__Posição:_Contínua
 233	__Posição:_Fixa
 234	__Controle_de_Combate
-235	Foi_adquirido.
+235	Foi adquirido.
 236	Insira_Senha(2)
 237	Alterar
 238	Insira_Nova_Senha(2)
 239	Repita_Nova_Senha(2)
 240	Reino
 241	Comunidade
-243	Custo_de_Criação
+243     Custo de Criação
 244	Missão
 245	Comum
-246	Mensagem_Privada
+246	Mensagem Privada
 247	Grupo
 248	Guilda
-249	Guilda_Aliada
+249	Guilda Aliada
 250	Cidadão
 251	Reino
 252	Gritar
 253	Tamanho
 254	Brilho
-255	Auto_Grupo
+255	Aceitação Grupo (AUTO)
 256	Gerar
-257	Composição
-258	Comprar
-259	Recompra
-260	Buff
-261	Missão_Diária
-262	Gerente
-263	Fama
-264	Manto
-265	Guilda_Hostil
-266	Quantidade_de_Retenção

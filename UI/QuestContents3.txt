@@ -1,100 +1,100 @@
-FFFFAA << Refinação Capa Celestial >>
+FFFFAA << Contrato dos Espíritos >>  
 FFFFFF 
-FFFFFF Você sabia, que é possível refinar a capa do celestial?
-FFFFFF Para fazer isso você deve ir até o “Alquimista Odin”
-FFFFFF no continente desconhecido em Kefra(X: 3236 Y:1690).
+FFFFFF Na guerra lendária, o General do céu, Kafma, estava
+FFFFFF liderando o batalhão comandado por 4 contratantes
+FFFFFF dos espíritos.
 FFFFFF 
-AAFFFF Itens necessários:
-FFAAFF [02]Pergaminho Selado
-FFAAFF [01]Selo Mágico
-FFAAFF [04]Poeiras de Lactolerium "Soltas"
+FFFFFF Esse foi o fator principal para
+FFFFFF acabar com a tropa inimiga.
+FFFFFF Elime, espírito da Água. Sylphed, espírito do Vento.
+FFFFFF Thelio do Fogo e Noas, da Terra...
+FFFFFF O seu poder está chegando ao limite.
 FFFFFF 
+FFFFFF A partir de agora você poderá realizar 
+FFFFFF contratos com os 4 espíritos.
 FFFFFF 
+FFFFFF Os cristais dos espíritos são essenciais para
+FFFFFF realizar os contratos. Os cristais
+FFFFFF podem ser achados na Dungeon de Kefra.
+FFFFFF O contrato com os espíritos pode ser 
+FFFFFF realizado apenas no 355º nivel
+FFFFAA << Primeiro: Espírito da Água >> 
 FFFFFF 
+FFFFFF Para fazer o contrato com Elime é necessário
+FFFFFF ser um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Elime.
 FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFAA << Destrave do level 40 >>
-FFFFFF 
-FFFFFF Como destravar o personagem celestial level 40?
-FFFFFF É bem simples, você deve ir até o “Alquimista Odin”
-FFFFFF no continente desconhecido em Kefra(X:3236 Y:1690).
-FFFFFF 
-AAFFFF Itens necessários:
-FFAAFF [02]Pergaminho Selado
-FFAAFF [01]Selo Mágico
-FFAAFF [04]Runas "Fehu, Mannaz, Thurizas, Anzus"
-FFFFFF 
-FFFFFF 
-FFFFFF 
-FFFFFF 
+FFFFFF Pelo contrato com Elime você ganha 80 de MP,
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito do Vento, Sylphed.
+FFFFFF O Cristal de Elime pode ser obtido matando o 
+FFFFFF Espírito_Maldito que reside na Dungeon de Kefra.
 FFFFFF 
 FFFFFF 
 FFFFFF 
 FFFFFF 
 FFFFFF 
 FFFFFF 
-FFFFAA << Destrave do level 90 >>
 FFFFFF 
-FFFFFF Como destravar o personagem celestial level 90?
-FFFFFF É bem simples, você irá precisar dos seguintes itens:
 FFFFFF 
-FFAAFF Pedra da Fúria.
-FFAAFF [500]Pontos de Fama.
+FFFFAA << Segundo: Espírito do Vento >>  
 FFFFFF 
-FFAAAA Observação:
-FFFFFF A Pedra da Fúria pode ser criada no “Alquimista Odin”
-FFFFFF no continente desconhecido em Kefra(X:3236 Y:1690).
+FFFFFF Para o contrato com Sylphed é necessário ser
+FFFFFF um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Sylphed.
 FFFFFF 
-AAFFFF Runas para criação da Pedra da Furia: 
-FFAAFF Sowilo, Kenaz, Uraz, Thurisaz, Isa, Tiwaz, Hagalaz
+FFFFFF Pelo contrato com Sylphed você ganha 30 de AC,
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito de fogo, Thelio.
+FFFFFF O Cristal de Sylphed pode ser obtido matando o
+FFFFFF Esqueleto_Maldito que reside na Dungeon de Kefra.
+FFFFFF  
+FFFFFF Se você não possuir o contrato com espírito da água,
+FFFFFF não é possível realizar contratos com o espírito do vento.
 FFFFFF 
-FFFFFF Você pode obter fama com o item Selo do Guerreiro
-FFFFFF a venda no NPC “Parche” em Erion(X:2467 Y:2004) ou
-FFFFFF no NPC “Creta” continente em desconhecido(X:3266 Y:1708).
+FFFFFF  
 FFFFFF 
-FFFFFF
-FFFFAA << Criação Sub-Celestial >>
 FFFFFF 
-FFFFFF A partir do level 120 do Celestial, o jogador poderá 
-FFFFFF fazer um e este Sub-Celestial começará no level 1. 
-FFFFFF O jogador poderá alternar o Celestial e o Sub Celestial 
-FFFFFF com a utilização da Pedra Misteriosa.
 FFFFFF 
-AAFFFF Itens necessários:
-FFAAFF Celestial level 120+.
-FFAAFF [100]Pontos de Fama.
-FFAAFF Sephirot "Classe desejada".
-FFAAFF Pedra Ideal.
+FFFFAA << Terceiro: Espírito do Fogo >>  
 FFFFFF 
-FFAAAA Observação:
-FFFFFF A Pedra da Misteriosa pode ser criada na “Alquimista Ehre”
-FFFFFF na cidade de Erion(X:2453 Y:2002).
+FFFFFF Para o contrato com Thelio é necessário 
+FFFFFF ser um personagem Arch com
+FFFFFF level de 355 e precisa sacrificar
+FFFFFF 10.000.000 de experiência e o item Cristal de Thelion.
 FFFFFF 
-AAFFFF Itens necessários para criação da Pedra Misteriosa:
-FFAAFF [02]Runas "Qualquer uma".
-FFAAFF [10]Poeira de Lactolerium "Pack".
-FFFFAA << Criação Cythera Arcana >>
+FFFFFF Pelo contrato com Thelion você ganha 80 de HP
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito de terra Noas.
 FFFFFF 
-FFFFFF Ao atingir o nível 200 no celestial ou no sub-celestial, 
-FFFFFF será liberado uma nova Quest.
-FFFFFF Onde será possível a criação da cythera arcana.
+FFFFFF O Cristal de Thelion pode ser obtido matando o
+FFFFFF Monge_Canibal que reside na Dungeon de Kefra.
 FFFFFF 
-AAFFFF Itens necessários:
-FFAAFF [01]Personagem Celestial/Sub nível 200.
-FFAAFF [04]Pedra Secretas "Água, Terra, Sol é Vento".
-FFAAFF [01]Cythera "Equipada".
-FFAAFF [01]Pedra da Fúria.
-FFAAFF [500]Pontos de Fama.
+FFFFFF Se não você possuir o contrato com espírito do vento,
+FFFFFF não é possível realizar contratos com o espírito de fogo.
+FFFFFF  
+FFFFFF  
 FFFFFF 
-FFAAAA Observação:
-FFFFFF A taxa de sucesso dessa combinação é de 30%.
-FFFFFF Em caso de falha, todos os itens serão destruidos, 
-FFFFFF execto a Cythera. Em caso de sucesso, todos os itens
-FFFFFF serão unificados e a Cythera Arcana será criada.
+FFFFFF 
+FFFFAA << Quarto: Espírito da Terra >> 
+FFFFFF 
+FFFFFF Para o contrato com Noas é necessário ser 
+FFFFFF um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Noas.
+FFFFFF 
+FFFFFF Pelo contrato com Noas você ganha 60 de HP, 20 de AC
+FFFFFF e 60 de MP. 
+FFFFFF 
+FFFFFF O Cristal de Noas pode ser obtido matando o
+FFFFFF Morcego que reside na Dungeon de Kefra.
+FFFFFF 
+FFFFFF Se você não possuir o contrato com o do fogo, não
+FFFFFF é possível realizar contratos com o espírito da terra.
+FFFFFF 
+FFFFFF 
+FFFFFF 
 FFFFFF 
 FFFFFF 

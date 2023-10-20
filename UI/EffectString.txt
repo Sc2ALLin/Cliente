@@ -3,7 +3,7 @@ Velocidade(+)
 Resistência(-)
 Ataque_Bônus
 Evasão(-)
-Revigorante
+Evasão(+)
 Velocidade(-)
 Jóia(s)
 Dano(+)
@@ -37,13 +37,3 @@ Veneno
 Ligação_Espectral
 Troca_de_Espírito
 Bônus_EXP
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
