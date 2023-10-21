@@ -1,8 +1,9 @@
 Téc_-1s
-Resist_+25
-Detecta
++Resist
+Detect
 Abs_HP
 +HP/DEF
 +HP/ATQ
-+Precisão
++Prec
 MP_=_HP
++Crit
