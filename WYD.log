@@ -1,31 +1,9 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-10/23 12:33:59 - VertexShader HW Accel Enabled
-10/23 12:33:59 - Error in Init Render Target Texture
-10/23 12:34:32 - >> New Field Scene
-10/23 12:34:32 - >> Init Field Scene::Start
-10/23 12:34:33 - >> Init Field Scene::End
-10/23 12:34:53 - mesh\\etc065.msa , mesh\etc065.อออ 
-10/23 12:35:02 - mesh\\etc009.msa , mesh\etc009.อออ 
-10/23 12:37:49 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-10/23 12:46:08 - >> New Field Scene
-10/23 12:46:08 - >> Init Field Scene::Start
-10/23 12:46:09 - >> Init Field Scene::End
-10/23 12:46:26 - mesh\\etc065.msa , mesh\etc065.อออ 
-10/23 12:46:36 - mesh\\etc009.msa , mesh\etc009.อออ 
-10/23 12:50:14 - >> New Field Scene
-10/23 12:50:14 - >> Init Field Scene::Start
-10/23 12:50:15 - >> Init Field Scene::End
-10/23 12:50:26 - mesh\\etc065.msa , mesh\etc065.อออ 
-10/23 12:53:33 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-10/23 13:00:54 - mesh\\etc065.msa , mesh\etc065.อออ 
-10/23 13:03:02 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-10/23 13:17:13 - >> New Field Scene
-10/23 13:17:13 - >> Init Field Scene::Start
-10/23 13:17:14 - >> Init Field Scene::End
-10/23 13:17:29 - mesh\\etc065.msa , mesh\etc065.อออ 
-10/23 13:17:38 - mesh\\etc009.msa , mesh\etc009.อออ 
-10/23 13:19:29 - effect\\fireeagle.msa , Effect\fireeagle.อออ 
-10/23 13:24:38 - mesh\\sp0006.msa , mesh\sp0006.อออ 
-10/23 13:30:48 - mesh\\sp0006.msa , mesh\sp0006.อออ 
+11/14 05:45:59 - VertexShader HW Accel Enabled
+11/14 05:45:59 - Error in Init Render Target Texture
+11/14 05:46:17 - >> New Field Scene
+11/14 05:46:17 - >> Init Field Scene::Start
+11/14 05:46:17 - >> Init Field Scene::End
+11/14 05:46:19 - mesh\\etc049.msa , mesh\etc049.อออ 
