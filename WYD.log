@@ -1,9 +1,8 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-11/14 05:45:59 - VertexShader HW Accel Enabled
-11/14 05:45:59 - Error in Init Render Target Texture
-11/14 05:46:17 - >> New Field Scene
-11/14 05:46:17 - >> Init Field Scene::Start
-11/14 05:46:17 - >> Init Field Scene::End
-11/14 05:46:19 - mesh\\etc049.msa , mesh\etc049.อออ 
+12/05 17:31:27 - VertexShader HW Accel Enabled
+12/05 17:31:28 - Error in Init Render Target Texture
+12/05 17:32:09 - >> New Field Scene
+12/05 17:32:09 - >> Init Field Scene::Start
+12/05 17:32:09 - >> Init Field Scene::End
