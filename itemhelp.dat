@@ -42,8 +42,8 @@ FFFFFFFF
 FFFF00FF [Item_Especial]
 FFFFFFFF 
 FFFFFFFF Remove_a_penalidade_causada
-FFFFFFFF pelo_veneno,_lentidão é
-FFFFFFFF Cancelamento
+FFFFFFFF pelo_veneno,_lentidão
+FFFFFFFF
 FFFFFFFF 
 FFFF0000 Erva_que_remove_algumas
 FFFF0000 penalidade_causada_por_magia.
@@ -2431,12 +2431,12 @@ FFFFFFFF
 3393
 FFFF00FF [Item_Premium]
 FFFFFFFF 
-FFFFFFFF Item_que_pode_ser
-FFFFFFFF convertido_em_cash.
+FFFFFFFF Item_que_pode_ser_convertido
+FFFFFFFF em_200_em_cash.
 FFFFFFFF 
 FFFFFFFF
 FFFF0000 OBS:_Clique_para_usar. 
-FFFF0000 OBS:_Use_para_receber_20_de_Cash.
+FFFF0000 
 FFFFFFFF
 3394
 FFFF00FF [Item_Premium]
@@ -4654,10 +4654,10 @@ FFFFFFFF
 FFFFFFFF 
 FFFFFFFF 
 FFFFFFFF 
-CC9900FF Com_uma_certa_probabilidade, transforma_o
-CC9900FF monstro alvo_em_membro do_seu_grupo.
-CC9900FF Se o seu lvl for maior que o lvl do monstro
-CC9900FF há maior probabilidade de sucesso.
+CC9900FF Com uma probabilidade determinada, anula  
+CC9900FF uma habilidade específica do inimigo, é 
+CC9900FF consumindo todo seu MP.
+CC9900FF
 5050
 FFFFFFFF 
 FFFFFFFF 

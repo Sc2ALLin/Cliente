@@ -1,8 +1,13 @@
 --------------------------------------------------------------------------
 >>> Logging System turn on.
 >>> mark 
-12/05 17:31:27 - VertexShader HW Accel Enabled
-12/05 17:31:28 - Error in Init Render Target Texture
-12/05 17:32:09 - >> New Field Scene
-12/05 17:32:09 - >> Init Field Scene::Start
-12/05 17:32:09 - >> Init Field Scene::End
+12/30 14:59:47 - VertexShader HW Accel Enabled
+12/30 14:59:47 - Error in Init Render Target Texture
+12/30 14:59:59 - >> New Field Scene
+12/30 14:59:59 - >> Init Field Scene::Start
+12/30 15:00:00 - >> Init Field Scene::End
+12/30 15:00:00 - mesh\\etc049.msa , mesh\etc049.อออ 
+12/30 16:04:14 - >> New Field Scene
+12/30 16:04:14 - >> Init Field Scene::Start
+12/30 16:04:14 - >> Init Field Scene::End
+12/30 16:04:20 - Reading Error : mesh\\mega001.msa

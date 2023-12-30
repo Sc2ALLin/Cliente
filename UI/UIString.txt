@@ -222,7 +222,7 @@
 222	APOSTA
 223	1.000
 224	_NENHUM
-225	Copyright_2005~2009_VANAHEIM._All_Rights_Reserved.
+225	Copyright_2005~2009_WYDTOP._All_Rights_Reserved.
 226	__Controle_de_Combate:_Físico
 227	__Controle_de_Combate:_Mágico
 228	Lv.
